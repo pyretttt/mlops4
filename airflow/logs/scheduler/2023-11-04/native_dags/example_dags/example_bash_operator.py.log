@@ -1,0 +1,53 @@
+[2023-11-04T21:12:18.074+0400] {processor.py:157} INFO - Started process (PID=37247) to work on /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-11-04T21:12:18.076+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2023-11-04T21:12:18.077+0400] {logging_mixin.py:151} INFO - [2023-11-04T21:12:18.077+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-11-04T21:12:18.086+0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-11-04T21:12:18.147+0400] {logging_mixin.py:151} INFO - [2023-11-04T21:12:18.147+0400] {manager.py:499} INFO - Created Permission View: %s
+[2023-11-04T21:12:18.154+0400] {logging_mixin.py:151} INFO - [2023-11-04T21:12:18.154+0400] {manager.py:499} INFO - Created Permission View: %s
+[2023-11-04T21:12:18.159+0400] {logging_mixin.py:151} INFO - [2023-11-04T21:12:18.159+0400] {manager.py:499} INFO - Created Permission View: %s
+[2023-11-04T21:12:18.160+0400] {logging_mixin.py:151} INFO - [2023-11-04T21:12:18.160+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-04T21:12:18.166+0400] {logging_mixin.py:151} INFO - [2023-11-04T21:12:18.165+0400] {dag.py:2963} INFO - Creating ORM DAG for example_bash_operator
+[2023-11-04T21:12:18.170+0400] {logging_mixin.py:151} INFO - [2023-11-04T21:12:18.170+0400] {dag.py:3722} INFO - Setting next_dagrun for example_bash_operator to 2023-11-03T00:00:00+00:00, run_after=2023-11-04T00:00:00+00:00
+[2023-11-04T21:12:18.181+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.111 seconds
+[2023-11-04T21:13:08.045+0400] {processor.py:157} INFO - Started process (PID=37360) to work on /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-11-04T21:13:08.047+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2023-11-04T21:13:08.048+0400] {logging_mixin.py:151} INFO - [2023-11-04T21:13:08.047+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-11-04T21:13:08.057+0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-11-04T21:13:08.071+0400] {logging_mixin.py:151} INFO - [2023-11-04T21:13:08.071+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-04T21:13:08.081+0400] {logging_mixin.py:151} INFO - [2023-11-04T21:13:08.081+0400] {dag.py:3722} INFO - Setting next_dagrun for example_bash_operator to 2023-11-03T00:00:00+00:00, run_after=2023-11-04T00:00:00+00:00
+[2023-11-04T21:13:08.092+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.050 seconds
+[2023-11-04T21:13:57.580+0400] {processor.py:157} INFO - Started process (PID=37423) to work on /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-11-04T21:13:57.581+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2023-11-04T21:13:57.582+0400] {logging_mixin.py:151} INFO - [2023-11-04T21:13:57.581+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-11-04T21:13:57.590+0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-11-04T21:13:57.605+0400] {logging_mixin.py:151} INFO - [2023-11-04T21:13:57.605+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-04T21:13:57.617+0400] {logging_mixin.py:151} INFO - [2023-11-04T21:13:57.617+0400] {dag.py:3722} INFO - Setting next_dagrun for example_bash_operator to 2023-11-03T00:00:00+00:00, run_after=2023-11-04T00:00:00+00:00
+[2023-11-04T21:13:57.630+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.053 seconds
+[2023-11-04T21:14:45.731+0400] {processor.py:157} INFO - Started process (PID=37473) to work on /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-11-04T21:14:45.733+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2023-11-04T21:14:45.734+0400] {logging_mixin.py:151} INFO - [2023-11-04T21:14:45.733+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-11-04T21:14:45.747+0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-11-04T21:14:45.766+0400] {logging_mixin.py:151} INFO - [2023-11-04T21:14:45.766+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-04T21:14:45.777+0400] {logging_mixin.py:151} INFO - [2023-11-04T21:14:45.777+0400] {dag.py:3722} INFO - Setting next_dagrun for example_bash_operator to 2023-11-03T00:00:00+00:00, run_after=2023-11-04T00:00:00+00:00
+[2023-11-04T21:14:45.790+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.063 seconds
+[2023-11-04T21:15:38.778+0400] {processor.py:157} INFO - Started process (PID=37524) to work on /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-11-04T21:15:38.780+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2023-11-04T21:15:38.782+0400] {logging_mixin.py:151} INFO - [2023-11-04T21:15:38.781+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-11-04T21:15:38.794+0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-11-04T21:15:38.814+0400] {logging_mixin.py:151} INFO - [2023-11-04T21:15:38.814+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-04T21:15:38.825+0400] {logging_mixin.py:151} INFO - [2023-11-04T21:15:38.825+0400] {dag.py:3722} INFO - Setting next_dagrun for example_bash_operator to 2023-11-03T00:00:00+00:00, run_after=2023-11-04T00:00:00+00:00
+[2023-11-04T21:15:38.836+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.062 seconds
+[2023-11-04T21:16:27.954+0400] {processor.py:157} INFO - Started process (PID=37584) to work on /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-11-04T21:16:27.956+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2023-11-04T21:16:27.957+0400] {logging_mixin.py:151} INFO - [2023-11-04T21:16:27.956+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-11-04T21:16:27.965+0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-11-04T21:16:27.981+0400] {logging_mixin.py:151} INFO - [2023-11-04T21:16:27.981+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-04T21:16:27.994+0400] {logging_mixin.py:151} INFO - [2023-11-04T21:16:27.994+0400] {dag.py:3722} INFO - Setting next_dagrun for example_bash_operator to 2023-11-03T00:00:00+00:00, run_after=2023-11-04T00:00:00+00:00
+[2023-11-04T21:16:28.007+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.055 seconds
+[2023-11-04T21:17:18.229+0400] {processor.py:157} INFO - Started process (PID=37639) to work on /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-11-04T21:17:18.231+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2023-11-04T21:17:18.232+0400] {logging_mixin.py:151} INFO - [2023-11-04T21:17:18.232+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-11-04T21:17:18.246+0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-11-04T21:17:18.265+0400] {logging_mixin.py:151} INFO - [2023-11-04T21:17:18.265+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-04T21:17:18.278+0400] {logging_mixin.py:151} INFO - [2023-11-04T21:17:18.278+0400] {dag.py:3722} INFO - Setting next_dagrun for example_bash_operator to 2023-11-03T00:00:00+00:00, run_after=2023-11-04T00:00:00+00:00
+[2023-11-04T21:17:18.291+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.066 seconds

@@ -1,0 +1,50 @@
+[2023-11-04T21:11:47.273+0400] {processor.py:157} INFO - Started process (PID=37221) to work on /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-11-04T21:11:47.274+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-11-04T21:11:47.275+0400] {logging_mixin.py:151} INFO - [2023-11-04T21:11:47.274+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-11-04T21:11:47.277+0400] {processor.py:841} WARNING - No viable dags retrieved from /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-11-04T21:11:47.284+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py took 0.013 seconds
+[2023-11-04T21:12:40.941+0400] {processor.py:157} INFO - Started process (PID=37269) to work on /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-11-04T21:12:40.943+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-11-04T21:12:40.945+0400] {logging_mixin.py:151} INFO - [2023-11-04T21:12:40.944+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-11-04T21:12:40.947+0400] {processor.py:841} WARNING - No viable dags retrieved from /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-11-04T21:12:40.957+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py took 0.019 seconds
+[2023-11-04T21:13:19.719+0400] {processor.py:157} INFO - Started process (PID=37385) to work on /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-11-04T21:13:19.721+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-11-04T21:13:19.723+0400] {logging_mixin.py:151} INFO - [2023-11-04T21:13:19.722+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-11-04T21:13:19.726+0400] {processor.py:841} WARNING - No viable dags retrieved from /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-11-04T21:13:19.737+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py took 0.022 seconds
+[2023-11-04T21:13:52.491+0400] {processor.py:157} INFO - Started process (PID=37419) to work on /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-11-04T21:13:52.492+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-11-04T21:13:52.493+0400] {logging_mixin.py:151} INFO - [2023-11-04T21:13:52.492+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-11-04T21:13:52.495+0400] {processor.py:841} WARNING - No viable dags retrieved from /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-11-04T21:13:52.508+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py took 0.022 seconds
+[2023-11-04T21:14:24.845+0400] {processor.py:157} INFO - Started process (PID=37451) to work on /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-11-04T21:14:24.846+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-11-04T21:14:24.847+0400] {logging_mixin.py:151} INFO - [2023-11-04T21:14:24.847+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-11-04T21:14:24.849+0400] {processor.py:841} WARNING - No viable dags retrieved from /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-11-04T21:14:24.858+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py took 0.015 seconds
+[2023-11-04T21:14:58.592+0400] {processor.py:157} INFO - Started process (PID=37485) to work on /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-11-04T21:14:58.593+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-11-04T21:14:58.594+0400] {logging_mixin.py:151} INFO - [2023-11-04T21:14:58.594+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-11-04T21:14:58.597+0400] {processor.py:841} WARNING - No viable dags retrieved from /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-11-04T21:14:58.610+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py took 0.022 seconds
+[2023-11-04T21:15:33.220+0400] {processor.py:157} INFO - Started process (PID=37519) to work on /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-11-04T21:15:33.222+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-11-04T21:15:33.223+0400] {logging_mixin.py:151} INFO - [2023-11-04T21:15:33.222+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-11-04T21:15:33.227+0400] {processor.py:841} WARNING - No viable dags retrieved from /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-11-04T21:15:33.239+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py took 0.023 seconds
+[2023-11-04T21:16:06.512+0400] {processor.py:157} INFO - Started process (PID=37562) to work on /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-11-04T21:16:06.513+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-11-04T21:16:06.514+0400] {logging_mixin.py:151} INFO - [2023-11-04T21:16:06.513+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-11-04T21:16:06.517+0400] {processor.py:841} WARNING - No viable dags retrieved from /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-11-04T21:16:06.526+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py took 0.016 seconds
+[2023-11-04T21:16:39.451+0400] {processor.py:157} INFO - Started process (PID=37596) to work on /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-11-04T21:16:39.451+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-11-04T21:16:39.452+0400] {logging_mixin.py:151} INFO - [2023-11-04T21:16:39.451+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-11-04T21:16:39.454+0400] {processor.py:841} WARNING - No viable dags retrieved from /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-11-04T21:16:39.462+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py took 0.014 seconds
+[2023-11-04T21:17:13.009+0400] {processor.py:157} INFO - Started process (PID=37633) to work on /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-11-04T21:17:13.012+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-11-04T21:17:13.014+0400] {logging_mixin.py:151} INFO - [2023-11-04T21:17:13.013+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-11-04T21:17:13.017+0400] {processor.py:841} WARNING - No viable dags retrieved from /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-11-04T21:17:13.029+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py took 0.024 seconds
