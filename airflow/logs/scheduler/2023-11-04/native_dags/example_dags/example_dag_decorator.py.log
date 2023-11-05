@@ -51,3 +51,367 @@
 [2023-11-04T21:17:28.520+0400] {logging_mixin.py:151} INFO - [2023-11-04T21:17:28.520+0400] {dag.py:2941} INFO - Sync 1 DAGs
 [2023-11-04T21:17:28.525+0400] {logging_mixin.py:151} INFO - [2023-11-04T21:17:28.525+0400] {dag.py:3722} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
 [2023-11-04T21:17:28.536+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py took 0.113 seconds
+[2023-11-04T21:18:19.972+0400] {processor.py:157} INFO - Started process (PID=37743) to work on /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-11-04T21:18:19.974+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2023-11-04T21:18:19.975+0400] {logging_mixin.py:151} INFO - [2023-11-04T21:18:19.974+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-11-04T21:18:20.021+0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-11-04T21:18:20.059+0400] {logging_mixin.py:151} INFO - [2023-11-04T21:18:20.059+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-04T21:18:20.062+0400] {logging_mixin.py:151} INFO - [2023-11-04T21:18:20.062+0400] {dag.py:3722} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2023-11-04T21:18:20.074+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py took 0.107 seconds
+[2023-11-04T21:19:07.494+0400] {processor.py:157} INFO - Started process (PID=37794) to work on /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-11-04T21:19:07.496+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2023-11-04T21:19:07.498+0400] {logging_mixin.py:151} INFO - [2023-11-04T21:19:07.497+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-11-04T21:19:07.542+0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-11-04T21:19:07.584+0400] {logging_mixin.py:151} INFO - [2023-11-04T21:19:07.584+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-04T21:19:07.588+0400] {logging_mixin.py:151} INFO - [2023-11-04T21:19:07.588+0400] {dag.py:3722} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2023-11-04T21:19:07.599+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py took 0.110 seconds
+[2023-11-04T21:19:56.834+0400] {processor.py:157} INFO - Started process (PID=37844) to work on /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-11-04T21:19:56.836+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2023-11-04T21:19:56.837+0400] {logging_mixin.py:151} INFO - [2023-11-04T21:19:56.836+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-11-04T21:19:56.884+0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-11-04T21:19:56.926+0400] {logging_mixin.py:151} INFO - [2023-11-04T21:19:56.925+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-04T21:19:56.930+0400] {logging_mixin.py:151} INFO - [2023-11-04T21:19:56.930+0400] {dag.py:3722} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2023-11-04T21:19:56.941+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py took 0.112 seconds
+[2023-11-04T21:20:51.187+0400] {processor.py:157} INFO - Started process (PID=37898) to work on /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-11-04T21:20:51.189+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2023-11-04T21:20:51.190+0400] {logging_mixin.py:151} INFO - [2023-11-04T21:20:51.190+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-11-04T21:20:51.240+0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-11-04T21:20:51.295+0400] {logging_mixin.py:151} INFO - [2023-11-04T21:20:51.295+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-04T21:20:51.299+0400] {logging_mixin.py:151} INFO - [2023-11-04T21:20:51.299+0400] {dag.py:3722} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2023-11-04T21:20:51.311+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py took 0.127 seconds
+[2023-11-04T21:21:42.852+0400] {processor.py:157} INFO - Started process (PID=37950) to work on /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-11-04T21:21:42.853+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2023-11-04T21:21:42.855+0400] {logging_mixin.py:151} INFO - [2023-11-04T21:21:42.854+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-11-04T21:21:42.897+0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-11-04T21:21:42.934+0400] {logging_mixin.py:151} INFO - [2023-11-04T21:21:42.934+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-04T21:21:42.937+0400] {logging_mixin.py:151} INFO - [2023-11-04T21:21:42.937+0400] {dag.py:3722} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2023-11-04T21:21:42.947+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py took 0.099 seconds
+[2023-11-04T21:22:33.305+0400] {processor.py:157} INFO - Started process (PID=38004) to work on /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-11-04T21:22:33.307+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2023-11-04T21:22:33.309+0400] {logging_mixin.py:151} INFO - [2023-11-04T21:22:33.308+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-11-04T21:22:33.357+0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-11-04T21:22:33.394+0400] {logging_mixin.py:151} INFO - [2023-11-04T21:22:33.393+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-04T21:22:33.398+0400] {logging_mixin.py:151} INFO - [2023-11-04T21:22:33.398+0400] {dag.py:3722} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2023-11-04T21:22:33.408+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py took 0.108 seconds
+[2023-11-04T21:23:24.999+0400] {processor.py:157} INFO - Started process (PID=38055) to work on /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-11-04T21:23:25.001+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2023-11-04T21:23:25.002+0400] {logging_mixin.py:151} INFO - [2023-11-04T21:23:25.001+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-11-04T21:23:25.054+0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-11-04T21:23:25.096+0400] {logging_mixin.py:151} INFO - [2023-11-04T21:23:25.096+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-04T21:23:25.100+0400] {logging_mixin.py:151} INFO - [2023-11-04T21:23:25.100+0400] {dag.py:3722} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2023-11-04T21:23:25.112+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py took 0.116 seconds
+[2023-11-04T21:24:12.764+0400] {processor.py:157} INFO - Started process (PID=38106) to work on /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-11-04T21:24:12.766+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2023-11-04T21:24:12.767+0400] {logging_mixin.py:151} INFO - [2023-11-04T21:24:12.766+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-11-04T21:24:12.812+0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-11-04T21:24:12.849+0400] {logging_mixin.py:151} INFO - [2023-11-04T21:24:12.849+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-04T21:24:12.853+0400] {logging_mixin.py:151} INFO - [2023-11-04T21:24:12.853+0400] {dag.py:3722} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2023-11-04T21:24:12.865+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py took 0.105 seconds
+[2023-11-04T21:25:03.653+0400] {processor.py:157} INFO - Started process (PID=38156) to work on /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-11-04T21:25:03.655+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2023-11-04T21:25:03.656+0400] {logging_mixin.py:151} INFO - [2023-11-04T21:25:03.655+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-11-04T21:25:03.709+0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-11-04T21:25:03.750+0400] {logging_mixin.py:151} INFO - [2023-11-04T21:25:03.750+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-04T21:25:03.755+0400] {logging_mixin.py:151} INFO - [2023-11-04T21:25:03.755+0400] {dag.py:3722} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2023-11-04T21:25:03.765+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py took 0.116 seconds
+[2023-11-04T21:25:56.024+0400] {processor.py:157} INFO - Started process (PID=38208) to work on /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-11-04T21:25:56.025+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2023-11-04T21:25:56.026+0400] {logging_mixin.py:151} INFO - [2023-11-04T21:25:56.025+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-11-04T21:25:56.067+0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-11-04T21:25:56.112+0400] {logging_mixin.py:151} INFO - [2023-11-04T21:25:56.112+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-04T21:25:56.116+0400] {logging_mixin.py:151} INFO - [2023-11-04T21:25:56.116+0400] {dag.py:3722} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2023-11-04T21:25:56.133+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py took 0.111 seconds
+[2023-11-04T21:26:52.999+0400] {processor.py:157} INFO - Started process (PID=38264) to work on /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-11-04T21:26:53.001+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2023-11-04T21:26:53.002+0400] {logging_mixin.py:151} INFO - [2023-11-04T21:26:53.001+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-11-04T21:26:53.051+0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-11-04T21:26:53.094+0400] {logging_mixin.py:151} INFO - [2023-11-04T21:26:53.094+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-04T21:26:53.098+0400] {logging_mixin.py:151} INFO - [2023-11-04T21:26:53.098+0400] {dag.py:3722} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2023-11-04T21:26:53.109+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py took 0.115 seconds
+[2023-11-04T21:27:47.782+0400] {processor.py:157} INFO - Started process (PID=38319) to work on /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-11-04T21:27:47.783+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2023-11-04T21:27:47.785+0400] {logging_mixin.py:151} INFO - [2023-11-04T21:27:47.784+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-11-04T21:27:47.834+0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-11-04T21:27:47.873+0400] {logging_mixin.py:151} INFO - [2023-11-04T21:27:47.873+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-04T21:27:47.878+0400] {logging_mixin.py:151} INFO - [2023-11-04T21:27:47.878+0400] {dag.py:3722} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2023-11-04T21:27:47.890+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py took 0.112 seconds
+[2023-11-04T21:28:39.675+0400] {processor.py:157} INFO - Started process (PID=38391) to work on /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-11-04T21:28:39.677+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2023-11-04T21:28:39.678+0400] {logging_mixin.py:151} INFO - [2023-11-04T21:28:39.678+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-11-04T21:28:39.723+0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-11-04T21:28:39.762+0400] {logging_mixin.py:151} INFO - [2023-11-04T21:28:39.762+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-04T21:28:39.766+0400] {logging_mixin.py:151} INFO - [2023-11-04T21:28:39.766+0400] {dag.py:3722} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2023-11-04T21:28:39.777+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py took 0.106 seconds
+[2023-11-04T21:29:31.636+0400] {processor.py:157} INFO - Started process (PID=38443) to work on /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-11-04T21:29:31.637+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2023-11-04T21:29:31.637+0400] {logging_mixin.py:151} INFO - [2023-11-04T21:29:31.637+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-11-04T21:29:31.665+0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-11-04T21:29:31.706+0400] {logging_mixin.py:151} INFO - [2023-11-04T21:29:31.706+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-04T21:29:31.710+0400] {logging_mixin.py:151} INFO - [2023-11-04T21:29:31.710+0400] {dag.py:3722} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2023-11-04T21:29:31.726+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py took 0.093 seconds
+[2023-11-04T21:30:24.997+0400] {processor.py:157} INFO - Started process (PID=38496) to work on /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-11-04T21:30:24.999+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2023-11-04T21:30:25.001+0400] {logging_mixin.py:151} INFO - [2023-11-04T21:30:25.000+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-11-04T21:30:25.046+0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-11-04T21:30:25.084+0400] {logging_mixin.py:151} INFO - [2023-11-04T21:30:25.084+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-04T21:30:25.088+0400] {logging_mixin.py:151} INFO - [2023-11-04T21:30:25.088+0400] {dag.py:3722} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2023-11-04T21:30:25.098+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py took 0.105 seconds
+[2023-11-04T21:31:19.811+0400] {processor.py:157} INFO - Started process (PID=38559) to work on /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-11-04T21:31:19.813+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2023-11-04T21:31:19.814+0400] {logging_mixin.py:151} INFO - [2023-11-04T21:31:19.813+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-11-04T21:31:19.858+0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-11-04T21:31:19.894+0400] {logging_mixin.py:151} INFO - [2023-11-04T21:31:19.894+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-04T21:31:19.898+0400] {logging_mixin.py:151} INFO - [2023-11-04T21:31:19.898+0400] {dag.py:3722} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2023-11-04T21:31:19.908+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py took 0.101 seconds
+[2023-11-04T21:32:13.102+0400] {processor.py:157} INFO - Started process (PID=38614) to work on /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-11-04T21:32:13.104+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2023-11-04T21:32:13.106+0400] {logging_mixin.py:151} INFO - [2023-11-04T21:32:13.105+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-11-04T21:32:13.150+0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-11-04T21:32:13.187+0400] {logging_mixin.py:151} INFO - [2023-11-04T21:32:13.187+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-04T21:32:13.190+0400] {logging_mixin.py:151} INFO - [2023-11-04T21:32:13.190+0400] {dag.py:3722} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2023-11-04T21:32:13.201+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py took 0.103 seconds
+[2023-11-04T21:33:11.823+0400] {processor.py:157} INFO - Started process (PID=38669) to work on /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-11-04T21:33:11.825+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2023-11-04T21:33:11.826+0400] {logging_mixin.py:151} INFO - [2023-11-04T21:33:11.825+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-11-04T21:33:11.871+0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-11-04T21:33:11.908+0400] {logging_mixin.py:151} INFO - [2023-11-04T21:33:11.908+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-04T21:33:11.912+0400] {logging_mixin.py:151} INFO - [2023-11-04T21:33:11.912+0400] {dag.py:3722} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2023-11-04T21:33:11.921+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py took 0.102 seconds
+[2023-11-04T21:34:13.843+0400] {processor.py:157} INFO - Started process (PID=38728) to work on /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-11-04T21:34:13.845+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2023-11-04T21:34:13.847+0400] {logging_mixin.py:151} INFO - [2023-11-04T21:34:13.846+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-11-04T21:34:13.894+0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-11-04T21:34:13.930+0400] {logging_mixin.py:151} INFO - [2023-11-04T21:34:13.930+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-04T21:34:13.934+0400] {logging_mixin.py:151} INFO - [2023-11-04T21:34:13.934+0400] {dag.py:3722} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2023-11-04T21:34:13.944+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py took 0.105 seconds
+[2023-11-04T21:35:14.237+0400] {processor.py:157} INFO - Started process (PID=38785) to work on /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-11-04T21:35:14.239+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2023-11-04T21:35:14.241+0400] {logging_mixin.py:151} INFO - [2023-11-04T21:35:14.240+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-11-04T21:35:14.284+0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-11-04T21:35:14.320+0400] {logging_mixin.py:151} INFO - [2023-11-04T21:35:14.320+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-04T21:35:14.324+0400] {logging_mixin.py:151} INFO - [2023-11-04T21:35:14.324+0400] {dag.py:3722} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2023-11-04T21:35:14.334+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py took 0.101 seconds
+[2023-11-04T21:36:13.560+0400] {processor.py:157} INFO - Started process (PID=38843) to work on /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-11-04T21:36:13.561+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2023-11-04T21:36:13.562+0400] {logging_mixin.py:151} INFO - [2023-11-04T21:36:13.561+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-11-04T21:36:13.598+0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-11-04T21:36:13.634+0400] {logging_mixin.py:151} INFO - [2023-11-04T21:36:13.634+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-04T21:36:13.637+0400] {logging_mixin.py:151} INFO - [2023-11-04T21:36:13.637+0400] {dag.py:3722} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2023-11-04T21:36:13.647+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py took 0.090 seconds
+[2023-11-04T21:37:10.879+0400] {processor.py:157} INFO - Started process (PID=38898) to work on /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-11-04T21:37:10.881+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2023-11-04T21:37:10.882+0400] {logging_mixin.py:151} INFO - [2023-11-04T21:37:10.882+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-11-04T21:37:10.924+0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-11-04T21:37:10.962+0400] {logging_mixin.py:151} INFO - [2023-11-04T21:37:10.962+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-04T21:37:10.965+0400] {logging_mixin.py:151} INFO - [2023-11-04T21:37:10.965+0400] {dag.py:3722} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2023-11-04T21:37:10.975+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py took 0.100 seconds
+[2023-11-04T21:38:12.605+0400] {processor.py:157} INFO - Started process (PID=38956) to work on /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-11-04T21:38:12.606+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2023-11-04T21:38:12.608+0400] {logging_mixin.py:151} INFO - [2023-11-04T21:38:12.607+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-11-04T21:38:12.661+0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-11-04T21:38:12.713+0400] {logging_mixin.py:151} INFO - [2023-11-04T21:38:12.712+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-04T21:38:12.718+0400] {logging_mixin.py:151} INFO - [2023-11-04T21:38:12.718+0400] {dag.py:3722} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2023-11-04T21:38:12.728+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py took 0.128 seconds
+[2023-11-04T21:39:12.680+0400] {processor.py:157} INFO - Started process (PID=39013) to work on /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-11-04T21:39:12.682+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2023-11-04T21:39:12.683+0400] {logging_mixin.py:151} INFO - [2023-11-04T21:39:12.683+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-11-04T21:39:12.732+0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-11-04T21:39:12.772+0400] {logging_mixin.py:151} INFO - [2023-11-04T21:39:12.771+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-04T21:39:13.137+0400] {logging_mixin.py:151} INFO - [2023-11-04T21:39:13.136+0400] {dag.py:3722} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2023-11-04T21:39:13.300+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py took 0.625 seconds
+[2023-11-04T21:40:11.594+0400] {processor.py:157} INFO - Started process (PID=39069) to work on /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-11-04T21:40:11.596+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2023-11-04T21:40:11.597+0400] {logging_mixin.py:151} INFO - [2023-11-04T21:40:11.596+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-11-04T21:40:11.642+0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-11-04T21:40:11.681+0400] {logging_mixin.py:151} INFO - [2023-11-04T21:40:11.681+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-04T21:40:11.685+0400] {logging_mixin.py:151} INFO - [2023-11-04T21:40:11.685+0400] {dag.py:3722} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2023-11-04T21:40:11.695+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py took 0.105 seconds
+[2023-11-04T21:41:16.299+0400] {processor.py:157} INFO - Started process (PID=39128) to work on /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-11-04T21:41:16.301+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2023-11-04T21:41:16.302+0400] {logging_mixin.py:151} INFO - [2023-11-04T21:41:16.301+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-11-04T21:41:16.346+0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-11-04T21:41:16.383+0400] {logging_mixin.py:151} INFO - [2023-11-04T21:41:16.383+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-04T21:41:16.386+0400] {logging_mixin.py:151} INFO - [2023-11-04T21:41:16.386+0400] {dag.py:3722} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2023-11-04T21:41:16.397+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py took 0.103 seconds
+[2023-11-04T21:42:21.672+0400] {processor.py:157} INFO - Started process (PID=39190) to work on /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-11-04T21:42:21.674+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2023-11-04T21:42:21.675+0400] {logging_mixin.py:151} INFO - [2023-11-04T21:42:21.675+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-11-04T21:42:21.729+0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-11-04T21:42:21.771+0400] {logging_mixin.py:151} INFO - [2023-11-04T21:42:21.771+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-04T21:42:21.775+0400] {logging_mixin.py:151} INFO - [2023-11-04T21:42:21.775+0400] {dag.py:3722} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2023-11-04T21:42:21.787+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py took 0.121 seconds
+[2023-11-04T21:43:13.871+0400] {processor.py:157} INFO - Started process (PID=39243) to work on /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-11-04T21:43:13.873+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2023-11-04T21:43:13.875+0400] {logging_mixin.py:151} INFO - [2023-11-04T21:43:13.874+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-11-04T21:43:13.919+0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-11-04T21:43:13.956+0400] {logging_mixin.py:151} INFO - [2023-11-04T21:43:13.956+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-04T21:43:13.960+0400] {logging_mixin.py:151} INFO - [2023-11-04T21:43:13.960+0400] {dag.py:3722} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2023-11-04T21:43:13.971+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py took 0.104 seconds
+[2023-11-04T21:44:05.906+0400] {processor.py:157} INFO - Started process (PID=39296) to work on /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-11-04T21:44:05.908+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2023-11-04T21:44:05.910+0400] {logging_mixin.py:151} INFO - [2023-11-04T21:44:05.909+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-11-04T21:44:05.956+0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-11-04T21:44:05.996+0400] {logging_mixin.py:151} INFO - [2023-11-04T21:44:05.996+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-04T21:44:06.000+0400] {logging_mixin.py:151} INFO - [2023-11-04T21:44:06.000+0400] {dag.py:3722} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2023-11-04T21:44:06.010+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py took 0.108 seconds
+[2023-11-04T21:44:59.480+0400] {processor.py:157} INFO - Started process (PID=39349) to work on /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-11-04T21:44:59.481+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2023-11-04T21:44:59.483+0400] {logging_mixin.py:151} INFO - [2023-11-04T21:44:59.482+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-11-04T21:44:59.534+0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-11-04T21:44:59.576+0400] {logging_mixin.py:151} INFO - [2023-11-04T21:44:59.575+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-04T21:44:59.580+0400] {logging_mixin.py:151} INFO - [2023-11-04T21:44:59.580+0400] {dag.py:3722} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2023-11-04T21:44:59.590+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py took 0.113 seconds
+[2023-11-04T21:45:55.234+0400] {processor.py:157} INFO - Started process (PID=39403) to work on /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-11-04T21:45:55.236+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2023-11-04T21:45:55.237+0400] {logging_mixin.py:151} INFO - [2023-11-04T21:45:55.236+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-11-04T21:45:55.284+0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-11-04T21:45:55.294+0400] {logging_mixin.py:151} INFO - [2023-11-04T21:45:55.294+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-04T21:45:55.299+0400] {logging_mixin.py:151} INFO - [2023-11-04T21:45:55.299+0400] {dag.py:3722} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2023-11-04T21:45:55.310+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py took 0.081 seconds
+[2023-11-04T21:46:47.204+0400] {processor.py:157} INFO - Started process (PID=39455) to work on /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-11-04T21:46:47.205+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2023-11-04T21:46:47.206+0400] {logging_mixin.py:151} INFO - [2023-11-04T21:46:47.206+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-11-04T21:46:47.250+0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-11-04T21:46:47.260+0400] {logging_mixin.py:151} INFO - [2023-11-04T21:46:47.260+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-04T21:46:47.266+0400] {logging_mixin.py:151} INFO - [2023-11-04T21:46:47.266+0400] {dag.py:3722} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2023-11-04T21:46:47.278+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py took 0.078 seconds
+[2023-11-04T21:47:38.905+0400] {processor.py:157} INFO - Started process (PID=39508) to work on /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-11-04T21:47:38.906+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2023-11-04T21:47:38.907+0400] {logging_mixin.py:151} INFO - [2023-11-04T21:47:38.907+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-11-04T21:47:38.945+0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-11-04T21:47:38.956+0400] {logging_mixin.py:151} INFO - [2023-11-04T21:47:38.956+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-04T21:47:38.961+0400] {logging_mixin.py:151} INFO - [2023-11-04T21:47:38.961+0400] {dag.py:3722} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2023-11-04T21:47:38.972+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py took 0.070 seconds
+[2023-11-04T21:48:25.721+0400] {processor.py:157} INFO - Started process (PID=39556) to work on /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-11-04T21:48:25.723+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2023-11-04T21:48:25.725+0400] {logging_mixin.py:151} INFO - [2023-11-04T21:48:25.724+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-11-04T21:48:25.772+0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-11-04T21:48:25.781+0400] {logging_mixin.py:151} INFO - [2023-11-04T21:48:25.780+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-04T21:48:25.785+0400] {logging_mixin.py:151} INFO - [2023-11-04T21:48:25.785+0400] {dag.py:3722} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2023-11-04T21:48:25.795+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py took 0.078 seconds
+[2023-11-04T21:49:17.082+0400] {processor.py:157} INFO - Started process (PID=39609) to work on /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-11-04T21:49:17.084+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2023-11-04T21:49:17.085+0400] {logging_mixin.py:151} INFO - [2023-11-04T21:49:17.084+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-11-04T21:49:17.131+0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-11-04T21:49:17.140+0400] {logging_mixin.py:151} INFO - [2023-11-04T21:49:17.140+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-04T21:49:17.146+0400] {logging_mixin.py:151} INFO - [2023-11-04T21:49:17.146+0400] {dag.py:3722} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2023-11-04T21:49:17.155+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py took 0.078 seconds
+[2023-11-04T21:50:12.852+0400] {processor.py:157} INFO - Started process (PID=39664) to work on /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-11-04T21:50:12.854+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2023-11-04T21:50:12.855+0400] {logging_mixin.py:151} INFO - [2023-11-04T21:50:12.854+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-11-04T21:50:12.903+0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-11-04T21:50:12.912+0400] {logging_mixin.py:151} INFO - [2023-11-04T21:50:12.912+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-04T21:50:12.917+0400] {logging_mixin.py:151} INFO - [2023-11-04T21:50:12.917+0400] {dag.py:3722} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2023-11-04T21:50:12.927+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py took 0.079 seconds
+[2023-11-04T21:51:07.313+0400] {processor.py:157} INFO - Started process (PID=39719) to work on /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-11-04T21:51:07.315+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2023-11-04T21:51:07.317+0400] {logging_mixin.py:151} INFO - [2023-11-04T21:51:07.316+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-11-04T21:51:07.365+0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-11-04T21:51:07.373+0400] {logging_mixin.py:151} INFO - [2023-11-04T21:51:07.373+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-04T21:51:07.377+0400] {logging_mixin.py:151} INFO - [2023-11-04T21:51:07.377+0400] {dag.py:3722} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2023-11-04T21:51:07.387+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py took 0.080 seconds
+[2023-11-04T21:51:59.064+0400] {processor.py:157} INFO - Started process (PID=39771) to work on /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-11-04T21:51:59.066+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2023-11-04T21:51:59.067+0400] {logging_mixin.py:151} INFO - [2023-11-04T21:51:59.066+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-11-04T21:51:59.119+0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-11-04T21:51:59.132+0400] {logging_mixin.py:151} INFO - [2023-11-04T21:51:59.132+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-04T21:51:59.137+0400] {logging_mixin.py:151} INFO - [2023-11-04T21:51:59.137+0400] {dag.py:3722} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2023-11-04T21:51:59.149+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py took 0.089 seconds
+[2023-11-04T21:52:47.642+0400] {processor.py:157} INFO - Started process (PID=39821) to work on /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-11-04T21:52:47.644+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2023-11-04T21:52:47.646+0400] {logging_mixin.py:151} INFO - [2023-11-04T21:52:47.645+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-11-04T21:52:47.691+0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-11-04T21:52:47.700+0400] {logging_mixin.py:151} INFO - [2023-11-04T21:52:47.700+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-04T21:52:47.705+0400] {logging_mixin.py:151} INFO - [2023-11-04T21:52:47.705+0400] {dag.py:3722} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2023-11-04T21:52:47.715+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py took 0.077 seconds
+[2023-11-04T21:53:42.961+0400] {processor.py:157} INFO - Started process (PID=39875) to work on /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-11-04T21:53:42.962+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2023-11-04T21:53:42.963+0400] {logging_mixin.py:151} INFO - [2023-11-04T21:53:42.962+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-11-04T21:53:43.005+0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-11-04T21:53:43.015+0400] {logging_mixin.py:151} INFO - [2023-11-04T21:53:43.015+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-04T21:53:43.020+0400] {logging_mixin.py:151} INFO - [2023-11-04T21:53:43.020+0400] {dag.py:3722} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2023-11-04T21:53:43.031+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py took 0.072 seconds
+[2023-11-04T21:54:35.347+0400] {processor.py:157} INFO - Started process (PID=39928) to work on /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-11-04T21:54:35.348+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2023-11-04T21:54:35.349+0400] {logging_mixin.py:151} INFO - [2023-11-04T21:54:35.348+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-11-04T21:54:35.398+0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-11-04T21:54:35.411+0400] {logging_mixin.py:151} INFO - [2023-11-04T21:54:35.411+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-04T21:54:35.416+0400] {logging_mixin.py:151} INFO - [2023-11-04T21:54:35.416+0400] {dag.py:3722} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2023-11-04T21:54:35.427+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py took 0.083 seconds
+[2023-11-04T21:55:25.475+0400] {processor.py:157} INFO - Started process (PID=39979) to work on /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-11-04T21:55:25.477+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2023-11-04T21:55:25.478+0400] {logging_mixin.py:151} INFO - [2023-11-04T21:55:25.477+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-11-04T21:55:25.523+0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-11-04T21:55:25.532+0400] {logging_mixin.py:151} INFO - [2023-11-04T21:55:25.531+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-04T21:55:25.537+0400] {logging_mixin.py:151} INFO - [2023-11-04T21:55:25.536+0400] {dag.py:3722} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2023-11-04T21:55:25.546+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py took 0.076 seconds
+[2023-11-04T21:56:16.139+0400] {processor.py:157} INFO - Started process (PID=40031) to work on /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-11-04T21:56:16.141+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2023-11-04T21:56:16.143+0400] {logging_mixin.py:151} INFO - [2023-11-04T21:56:16.142+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-11-04T21:56:16.191+0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-11-04T21:56:16.200+0400] {logging_mixin.py:151} INFO - [2023-11-04T21:56:16.200+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-04T21:56:16.204+0400] {logging_mixin.py:151} INFO - [2023-11-04T21:56:16.204+0400] {dag.py:3722} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2023-11-04T21:56:16.214+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py took 0.080 seconds
+[2023-11-04T21:57:09.969+0400] {processor.py:157} INFO - Started process (PID=40084) to work on /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-11-04T21:57:09.971+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2023-11-04T21:57:09.972+0400] {logging_mixin.py:151} INFO - [2023-11-04T21:57:09.972+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-11-04T21:57:10.020+0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-11-04T21:57:10.061+0400] {logging_mixin.py:151} INFO - [2023-11-04T21:57:10.061+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-04T21:57:10.065+0400] {logging_mixin.py:151} INFO - [2023-11-04T21:57:10.065+0400] {dag.py:3722} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2023-11-04T21:57:10.075+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py took 0.110 seconds
+[2023-11-04T21:58:05.431+0400] {processor.py:157} INFO - Started process (PID=40139) to work on /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-11-04T21:58:05.432+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2023-11-04T21:58:05.433+0400] {logging_mixin.py:151} INFO - [2023-11-04T21:58:05.432+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-11-04T21:58:05.480+0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-11-04T21:58:05.493+0400] {logging_mixin.py:151} INFO - [2023-11-04T21:58:05.493+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-04T21:58:05.498+0400] {logging_mixin.py:151} INFO - [2023-11-04T21:58:05.498+0400] {dag.py:3722} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2023-11-04T21:58:05.509+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py took 0.082 seconds
+[2023-11-04T21:58:59.379+0400] {processor.py:157} INFO - Started process (PID=40192) to work on /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-11-04T21:58:59.381+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2023-11-04T21:58:59.382+0400] {logging_mixin.py:151} INFO - [2023-11-04T21:58:59.381+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-11-04T21:58:59.427+0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-11-04T21:58:59.436+0400] {logging_mixin.py:151} INFO - [2023-11-04T21:58:59.435+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-04T21:58:59.441+0400] {logging_mixin.py:151} INFO - [2023-11-04T21:58:59.441+0400] {dag.py:3722} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2023-11-04T21:58:59.451+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py took 0.076 seconds
+[2023-11-04T21:59:52.373+0400] {processor.py:157} INFO - Started process (PID=40246) to work on /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-11-04T21:59:52.376+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2023-11-04T21:59:52.377+0400] {logging_mixin.py:151} INFO - [2023-11-04T21:59:52.376+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-11-04T21:59:52.430+0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-11-04T21:59:52.440+0400] {logging_mixin.py:151} INFO - [2023-11-04T21:59:52.440+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-04T21:59:52.445+0400] {logging_mixin.py:151} INFO - [2023-11-04T21:59:52.445+0400] {dag.py:3722} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2023-11-04T21:59:52.456+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py took 0.087 seconds
+[2023-11-04T22:00:44.257+0400] {processor.py:157} INFO - Started process (PID=40298) to work on /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-11-04T22:00:44.259+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2023-11-04T22:00:44.261+0400] {logging_mixin.py:151} INFO - [2023-11-04T22:00:44.260+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-11-04T22:00:44.315+0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-11-04T22:00:44.325+0400] {logging_mixin.py:151} INFO - [2023-11-04T22:00:44.325+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-04T22:00:44.330+0400] {logging_mixin.py:151} INFO - [2023-11-04T22:00:44.330+0400] {dag.py:3722} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2023-11-04T22:00:44.341+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py took 0.089 seconds
+[2023-11-04T22:01:31.130+0400] {processor.py:157} INFO - Started process (PID=40347) to work on /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-11-04T22:01:31.132+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2023-11-04T22:01:31.133+0400] {logging_mixin.py:151} INFO - [2023-11-04T22:01:31.132+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-11-04T22:01:31.181+0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-11-04T22:01:31.190+0400] {logging_mixin.py:151} INFO - [2023-11-04T22:01:31.190+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-04T22:01:31.195+0400] {logging_mixin.py:151} INFO - [2023-11-04T22:01:31.195+0400] {dag.py:3722} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2023-11-04T22:01:31.205+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py took 0.080 seconds
+[2023-11-04T22:02:22.955+0400] {processor.py:157} INFO - Started process (PID=40398) to work on /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-11-04T22:02:22.957+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2023-11-04T22:02:22.958+0400] {logging_mixin.py:151} INFO - [2023-11-04T22:02:22.957+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-11-04T22:02:23.004+0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-11-04T22:02:23.013+0400] {logging_mixin.py:151} INFO - [2023-11-04T22:02:23.013+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-04T22:02:23.017+0400] {logging_mixin.py:151} INFO - [2023-11-04T22:02:23.017+0400] {dag.py:3722} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2023-11-04T22:02:23.029+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py took 0.079 seconds
+[2023-11-04T22:03:12.839+0400] {processor.py:157} INFO - Started process (PID=40451) to work on /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-11-04T22:03:12.840+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2023-11-04T22:03:12.842+0400] {logging_mixin.py:151} INFO - [2023-11-04T22:03:12.841+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-11-04T22:03:12.886+0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-11-04T22:03:12.895+0400] {logging_mixin.py:151} INFO - [2023-11-04T22:03:12.895+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-04T22:03:12.901+0400] {logging_mixin.py:151} INFO - [2023-11-04T22:03:12.900+0400] {dag.py:3722} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2023-11-04T22:03:12.911+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py took 0.077 seconds
+[2023-11-04T22:04:05.718+0400] {processor.py:157} INFO - Started process (PID=40503) to work on /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-11-04T22:04:05.721+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2023-11-04T22:04:05.723+0400] {logging_mixin.py:151} INFO - [2023-11-04T22:04:05.722+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-11-04T22:04:05.767+0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-11-04T22:04:05.775+0400] {logging_mixin.py:151} INFO - [2023-11-04T22:04:05.775+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-04T22:04:05.780+0400] {logging_mixin.py:151} INFO - [2023-11-04T22:04:05.780+0400] {dag.py:3722} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2023-11-04T22:04:05.790+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py took 0.076 seconds
