@@ -1,9 +1,13 @@
 import os
+import sys
 
 from airflow import DAG
 from airflow.operators.bash import BashOperator
 
 import datetime as dt 
+
+sys.path.append('/home/pyretttt/repos/mlops4')
+from scripts import get_data, prepare_data, experiment
 
 args = {
     "owner": "admin",
@@ -20,21 +24,8 @@ with DAG(
     schedule_interval=None, 
     tags=['experiment', 'mobile_price']
 ) as dag:
-    get_data = BashOperator(
-        task_id='get_data',
-        bash_command=f'python3 {os.path.join(BASE_DIR, "scripts", "get_data.py")}',
-        dag=dag
-    )
-    prepare_data = BashOperator(
-            task_id='prepare_data',
-            bash_command=f'python3 {os.path.join(BASE_DIR, "scripts", "prepare_data.py")}',
-            dag=dag
-    )
-    experiment = BashOperator(
-            task_id='experiment',
-            bash_command=f'python3 {os.path.join(BASE_DIR, "scripts", "experiment.py")}',
-            dag=dag
-    )
-                
+    get_data = get_data.run(dag_instance=dag)
+    prepare_data = prepare_data.run(dag_instance=dag)
+    experiment = experiment.run(dag_instance=dag)
 
     get_data >> prepare_data >> experiment

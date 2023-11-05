@@ -961,3 +961,1133 @@ SyntaxError: leading zeros in decimal integer literals are not permitted; use an
 [2023-11-05T12:17:15.569+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:17:15.568+0400] {dag.py:2941} INFO - Sync 1 DAGs
 [2023-11-05T12:17:15.578+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:17:15.578+0400] {dag.py:3722} INFO - Setting next_dagrun for experiment to None, run_after=None
 [2023-11-05T12:17:15.590+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops4/airflow/dags/experiment.py took 0.055 seconds
+[2023-11-05T12:17:53.858+0400] {processor.py:157} INFO - Started process (PID=49442) to work on /home/pyretttt/repos/mlops4/airflow/dags/experiment.py
+[2023-11-05T12:17:53.860+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops4/airflow/dags/experiment.py for tasks to queue
+[2023-11-05T12:17:53.861+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:17:53.860+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops4/airflow/dags/experiment.py
+[2023-11-05T12:17:53.870+0400] {processor.py:839} INFO - DAG(s) dict_keys(['experiment']) retrieved from /home/pyretttt/repos/mlops4/airflow/dags/experiment.py
+[2023-11-05T12:17:53.885+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:17:53.884+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-05T12:17:53.893+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:17:53.893+0400] {dag.py:3722} INFO - Setting next_dagrun for experiment to None, run_after=None
+[2023-11-05T12:17:53.906+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops4/airflow/dags/experiment.py took 0.052 seconds
+[2023-11-05T12:18:30.233+0400] {processor.py:157} INFO - Started process (PID=49488) to work on /home/pyretttt/repos/mlops4/airflow/dags/experiment.py
+[2023-11-05T12:18:30.235+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops4/airflow/dags/experiment.py for tasks to queue
+[2023-11-05T12:18:30.236+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:18:30.235+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops4/airflow/dags/experiment.py
+[2023-11-05T12:18:30.245+0400] {processor.py:839} INFO - DAG(s) dict_keys(['experiment']) retrieved from /home/pyretttt/repos/mlops4/airflow/dags/experiment.py
+[2023-11-05T12:18:30.260+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:18:30.260+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-05T12:18:30.269+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:18:30.269+0400] {dag.py:3722} INFO - Setting next_dagrun for experiment to None, run_after=None
+[2023-11-05T12:18:30.282+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops4/airflow/dags/experiment.py took 0.053 seconds
+[2023-11-05T12:19:05.401+0400] {processor.py:157} INFO - Started process (PID=49524) to work on /home/pyretttt/repos/mlops4/airflow/dags/experiment.py
+[2023-11-05T12:19:05.403+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops4/airflow/dags/experiment.py for tasks to queue
+[2023-11-05T12:19:05.405+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:19:05.404+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops4/airflow/dags/experiment.py
+[2023-11-05T12:19:05.413+0400] {processor.py:839} INFO - DAG(s) dict_keys(['experiment']) retrieved from /home/pyretttt/repos/mlops4/airflow/dags/experiment.py
+[2023-11-05T12:19:05.430+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:19:05.430+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-05T12:19:05.438+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:19:05.438+0400] {dag.py:3722} INFO - Setting next_dagrun for experiment to None, run_after=None
+[2023-11-05T12:19:05.451+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops4/airflow/dags/experiment.py took 0.054 seconds
+[2023-11-05T12:19:42.350+0400] {processor.py:157} INFO - Started process (PID=49561) to work on /home/pyretttt/repos/mlops4/airflow/dags/experiment.py
+[2023-11-05T12:19:42.352+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops4/airflow/dags/experiment.py for tasks to queue
+[2023-11-05T12:19:42.353+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:19:42.352+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops4/airflow/dags/experiment.py
+[2023-11-05T12:19:42.363+0400] {processor.py:839} INFO - DAG(s) dict_keys(['experiment']) retrieved from /home/pyretttt/repos/mlops4/airflow/dags/experiment.py
+[2023-11-05T12:19:42.381+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:19:42.381+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-05T12:19:42.392+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:19:42.391+0400] {dag.py:3722} INFO - Setting next_dagrun for experiment to None, run_after=None
+[2023-11-05T12:19:42.406+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops4/airflow/dags/experiment.py took 0.062 seconds
+[2023-11-05T12:20:20.599+0400] {processor.py:157} INFO - Started process (PID=49599) to work on /home/pyretttt/repos/mlops4/airflow/dags/experiment.py
+[2023-11-05T12:20:20.601+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops4/airflow/dags/experiment.py for tasks to queue
+[2023-11-05T12:20:20.602+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:20:20.601+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops4/airflow/dags/experiment.py
+[2023-11-05T12:20:20.611+0400] {processor.py:839} INFO - DAG(s) dict_keys(['experiment']) retrieved from /home/pyretttt/repos/mlops4/airflow/dags/experiment.py
+[2023-11-05T12:20:20.627+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:20:20.627+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-05T12:20:20.635+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:20:20.635+0400] {dag.py:3722} INFO - Setting next_dagrun for experiment to None, run_after=None
+[2023-11-05T12:20:20.646+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops4/airflow/dags/experiment.py took 0.052 seconds
+[2023-11-05T12:20:53.337+0400] {processor.py:157} INFO - Started process (PID=49634) to work on /home/pyretttt/repos/mlops4/airflow/dags/experiment.py
+[2023-11-05T12:20:53.338+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops4/airflow/dags/experiment.py for tasks to queue
+[2023-11-05T12:20:53.339+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:20:53.338+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops4/airflow/dags/experiment.py
+[2023-11-05T12:20:53.347+0400] {processor.py:839} INFO - DAG(s) dict_keys(['experiment']) retrieved from /home/pyretttt/repos/mlops4/airflow/dags/experiment.py
+[2023-11-05T12:20:53.362+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:20:53.362+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-05T12:20:53.370+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:20:53.370+0400] {dag.py:3722} INFO - Setting next_dagrun for experiment to None, run_after=None
+[2023-11-05T12:20:53.383+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops4/airflow/dags/experiment.py took 0.051 seconds
+[2023-11-05T12:21:28.387+0400] {processor.py:157} INFO - Started process (PID=49670) to work on /home/pyretttt/repos/mlops4/airflow/dags/experiment.py
+[2023-11-05T12:21:28.389+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops4/airflow/dags/experiment.py for tasks to queue
+[2023-11-05T12:21:28.391+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:21:28.390+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops4/airflow/dags/experiment.py
+[2023-11-05T12:21:28.399+0400] {processor.py:839} INFO - DAG(s) dict_keys(['experiment']) retrieved from /home/pyretttt/repos/mlops4/airflow/dags/experiment.py
+[2023-11-05T12:21:28.414+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:21:28.414+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-05T12:21:28.424+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:21:28.424+0400] {dag.py:3722} INFO - Setting next_dagrun for experiment to None, run_after=None
+[2023-11-05T12:21:28.437+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops4/airflow/dags/experiment.py took 0.054 seconds
+[2023-11-05T12:22:00.696+0400] {processor.py:157} INFO - Started process (PID=49720) to work on /home/pyretttt/repos/mlops4/airflow/dags/experiment.py
+[2023-11-05T12:22:00.697+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops4/airflow/dags/experiment.py for tasks to queue
+[2023-11-05T12:22:00.698+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:22:00.697+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops4/airflow/dags/experiment.py
+[2023-11-05T12:22:00.703+0400] {processor.py:839} INFO - DAG(s) dict_keys(['experiment']) retrieved from /home/pyretttt/repos/mlops4/airflow/dags/experiment.py
+[2023-11-05T12:22:00.717+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:22:00.716+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-05T12:22:00.725+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:22:00.725+0400] {dag.py:3722} INFO - Setting next_dagrun for experiment to None, run_after=None
+[2023-11-05T12:22:00.738+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops4/airflow/dags/experiment.py took 0.045 seconds
+[2023-11-05T12:22:35.732+0400] {processor.py:157} INFO - Started process (PID=49756) to work on /home/pyretttt/repos/mlops4/airflow/dags/experiment.py
+[2023-11-05T12:22:35.733+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops4/airflow/dags/experiment.py for tasks to queue
+[2023-11-05T12:22:35.734+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:22:35.734+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops4/airflow/dags/experiment.py
+[2023-11-05T12:22:35.740+0400] {processor.py:839} INFO - DAG(s) dict_keys(['experiment']) retrieved from /home/pyretttt/repos/mlops4/airflow/dags/experiment.py
+[2023-11-05T12:22:35.750+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:22:35.750+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-05T12:22:35.757+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:22:35.757+0400] {dag.py:3722} INFO - Setting next_dagrun for experiment to None, run_after=None
+[2023-11-05T12:22:35.772+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops4/airflow/dags/experiment.py took 0.043 seconds
+[2023-11-05T12:23:13.135+0400] {processor.py:157} INFO - Started process (PID=49810) to work on /home/pyretttt/repos/mlops4/airflow/dags/experiment.py
+[2023-11-05T12:23:13.137+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops4/airflow/dags/experiment.py for tasks to queue
+[2023-11-05T12:23:13.138+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:23:13.137+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops4/airflow/dags/experiment.py
+[2023-11-05T12:23:13.142+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:23:13.142+0400] {dagbag.py:346} ERROR - Failed to import: /home/pyretttt/repos/mlops4/airflow/dags/experiment.py
+Traceback (most recent call last):
+  File "/home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/models/dagbag.py", line 342, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/home/pyretttt/repos/mlops4/airflow/dags/experiment.py", line 8, in <module>
+    from scripts import get_data
+ModuleNotFoundError: No module named 'scripts'
+[2023-11-05T12:23:13.143+0400] {processor.py:841} WARNING - No viable dags retrieved from /home/pyretttt/repos/mlops4/airflow/dags/experiment.py
+[2023-11-05T12:23:13.160+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops4/airflow/dags/experiment.py took 0.029 seconds
+[2023-11-05T12:23:50.766+0400] {processor.py:157} INFO - Started process (PID=49852) to work on /home/pyretttt/repos/mlops4/airflow/dags/experiment.py
+[2023-11-05T12:23:50.768+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops4/airflow/dags/experiment.py for tasks to queue
+[2023-11-05T12:23:50.769+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:23:50.768+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops4/airflow/dags/experiment.py
+[2023-11-05T12:23:50.774+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:23:50.774+0400] {dagbag.py:346} ERROR - Failed to import: /home/pyretttt/repos/mlops4/airflow/dags/experiment.py
+Traceback (most recent call last):
+  File "/home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/models/dagbag.py", line 342, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/home/pyretttt/repos/mlops4/airflow/dags/experiment.py", line 8, in <module>
+    from scripts import get_data
+ModuleNotFoundError: No module named 'scripts'
+[2023-11-05T12:23:50.775+0400] {processor.py:841} WARNING - No viable dags retrieved from /home/pyretttt/repos/mlops4/airflow/dags/experiment.py
+[2023-11-05T12:23:50.795+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops4/airflow/dags/experiment.py took 0.034 seconds
+[2023-11-05T12:24:27.185+0400] {processor.py:157} INFO - Started process (PID=49893) to work on /home/pyretttt/repos/mlops4/airflow/dags/experiment.py
+[2023-11-05T12:24:27.187+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops4/airflow/dags/experiment.py for tasks to queue
+[2023-11-05T12:24:27.188+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:24:27.187+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops4/airflow/dags/experiment.py
+[2023-11-05T12:24:27.194+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:24:27.193+0400] {dagbag.py:346} ERROR - Failed to import: /home/pyretttt/repos/mlops4/airflow/dags/experiment.py
+Traceback (most recent call last):
+  File "/home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/models/dagbag.py", line 342, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/home/pyretttt/repos/mlops4/airflow/dags/experiment.py", line 8, in <module>
+    from scripts import get_data
+ModuleNotFoundError: No module named 'scripts'
+[2023-11-05T12:24:27.194+0400] {processor.py:841} WARNING - No viable dags retrieved from /home/pyretttt/repos/mlops4/airflow/dags/experiment.py
+[2023-11-05T12:24:27.214+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops4/airflow/dags/experiment.py took 0.033 seconds
+[2023-11-05T12:25:07.996+0400] {processor.py:157} INFO - Started process (PID=49934) to work on /home/pyretttt/repos/mlops4/airflow/dags/experiment.py
+[2023-11-05T12:25:07.998+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops4/airflow/dags/experiment.py for tasks to queue
+[2023-11-05T12:25:07.999+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:25:07.999+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops4/airflow/dags/experiment.py
+[2023-11-05T12:25:08.004+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:25:08.003+0400] {dagbag.py:346} ERROR - Failed to import: /home/pyretttt/repos/mlops4/airflow/dags/experiment.py
+Traceback (most recent call last):
+  File "/home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/models/dagbag.py", line 342, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/home/pyretttt/repos/mlops4/airflow/dags/experiment.py", line 8, in <module>
+    from scripts import get_data
+ModuleNotFoundError: No module named 'scripts'
+[2023-11-05T12:25:08.005+0400] {processor.py:841} WARNING - No viable dags retrieved from /home/pyretttt/repos/mlops4/airflow/dags/experiment.py
+[2023-11-05T12:25:08.026+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops4/airflow/dags/experiment.py took 0.034 seconds
+[2023-11-05T12:25:57.618+0400] {processor.py:157} INFO - Started process (PID=49980) to work on /home/pyretttt/repos/mlops4/airflow/dags/experiment.py
+[2023-11-05T12:25:57.621+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops4/airflow/dags/experiment.py for tasks to queue
+[2023-11-05T12:25:57.622+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:25:57.621+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops4/airflow/dags/experiment.py
+[2023-11-05T12:25:57.627+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:25:57.626+0400] {dagbag.py:346} ERROR - Failed to import: /home/pyretttt/repos/mlops4/airflow/dags/experiment.py
+Traceback (most recent call last):
+  File "/home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/models/dagbag.py", line 342, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/home/pyretttt/repos/mlops4/airflow/dags/experiment.py", line 8, in <module>
+    from scripts import get_data
+ModuleNotFoundError: No module named 'scripts'
+[2023-11-05T12:25:57.627+0400] {processor.py:841} WARNING - No viable dags retrieved from /home/pyretttt/repos/mlops4/airflow/dags/experiment.py
+[2023-11-05T12:25:57.647+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops4/airflow/dags/experiment.py took 0.033 seconds
+[2023-11-05T12:26:36.984+0400] {processor.py:157} INFO - Started process (PID=50019) to work on /home/pyretttt/repos/mlops4/airflow/dags/experiment.py
+[2023-11-05T12:26:36.986+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops4/airflow/dags/experiment.py for tasks to queue
+[2023-11-05T12:26:36.987+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:26:36.986+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops4/airflow/dags/experiment.py
+[2023-11-05T12:26:36.992+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:26:36.991+0400] {dagbag.py:346} ERROR - Failed to import: /home/pyretttt/repos/mlops4/airflow/dags/experiment.py
+Traceback (most recent call last):
+  File "/home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/models/dagbag.py", line 342, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/home/pyretttt/repos/mlops4/airflow/dags/experiment.py", line 8, in <module>
+    from scripts import get_data
+ModuleNotFoundError: No module named 'scripts'
+[2023-11-05T12:26:36.993+0400] {processor.py:841} WARNING - No viable dags retrieved from /home/pyretttt/repos/mlops4/airflow/dags/experiment.py
+[2023-11-05T12:26:37.013+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops4/airflow/dags/experiment.py took 0.034 seconds
+[2023-11-05T12:27:17.706+0400] {processor.py:157} INFO - Started process (PID=50058) to work on /home/pyretttt/repos/mlops4/airflow/dags/experiment.py
+[2023-11-05T12:27:17.708+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops4/airflow/dags/experiment.py for tasks to queue
+[2023-11-05T12:27:17.709+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:27:17.708+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops4/airflow/dags/experiment.py
+[2023-11-05T12:27:17.715+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:27:17.714+0400] {dagbag.py:346} ERROR - Failed to import: /home/pyretttt/repos/mlops4/airflow/dags/experiment.py
+Traceback (most recent call last):
+  File "/home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/models/dagbag.py", line 342, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/home/pyretttt/repos/mlops4/airflow/dags/experiment.py", line 8, in <module>
+    from scripts import get_data
+ModuleNotFoundError: No module named 'scripts'
+[2023-11-05T12:27:17.715+0400] {processor.py:841} WARNING - No viable dags retrieved from /home/pyretttt/repos/mlops4/airflow/dags/experiment.py
+[2023-11-05T12:27:17.735+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops4/airflow/dags/experiment.py took 0.033 seconds
+[2023-11-05T12:27:56.729+0400] {processor.py:157} INFO - Started process (PID=50097) to work on /home/pyretttt/repos/mlops4/airflow/dags/experiment.py
+[2023-11-05T12:27:56.731+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops4/airflow/dags/experiment.py for tasks to queue
+[2023-11-05T12:27:56.733+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:27:56.732+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops4/airflow/dags/experiment.py
+[2023-11-05T12:27:56.738+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:27:56.737+0400] {dagbag.py:346} ERROR - Failed to import: /home/pyretttt/repos/mlops4/airflow/dags/experiment.py
+Traceback (most recent call last):
+  File "/home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/models/dagbag.py", line 342, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/home/pyretttt/repos/mlops4/airflow/dags/experiment.py", line 8, in <module>
+    from scripts import get_data
+ModuleNotFoundError: No module named 'scripts'
+[2023-11-05T12:27:56.738+0400] {processor.py:841} WARNING - No viable dags retrieved from /home/pyretttt/repos/mlops4/airflow/dags/experiment.py
+[2023-11-05T12:27:56.759+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops4/airflow/dags/experiment.py took 0.034 seconds
+[2023-11-05T12:28:40.037+0400] {processor.py:157} INFO - Started process (PID=50194) to work on /home/pyretttt/repos/mlops4/airflow/dags/experiment.py
+[2023-11-05T12:28:40.038+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops4/airflow/dags/experiment.py for tasks to queue
+[2023-11-05T12:28:40.040+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:28:40.039+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops4/airflow/dags/experiment.py
+[2023-11-05T12:28:40.045+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:28:40.044+0400] {dagbag.py:346} ERROR - Failed to import: /home/pyretttt/repos/mlops4/airflow/dags/experiment.py
+Traceback (most recent call last):
+  File "/home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/models/dagbag.py", line 342, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/home/pyretttt/repos/mlops4/airflow/dags/experiment.py", line 8, in <module>
+    from scripts import get_data
+ModuleNotFoundError: No module named 'scripts'
+[2023-11-05T12:28:40.045+0400] {processor.py:841} WARNING - No viable dags retrieved from /home/pyretttt/repos/mlops4/airflow/dags/experiment.py
+[2023-11-05T12:28:40.067+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops4/airflow/dags/experiment.py took 0.035 seconds
+[2023-11-05T12:29:19.447+0400] {processor.py:157} INFO - Started process (PID=50234) to work on /home/pyretttt/repos/mlops4/airflow/dags/experiment.py
+[2023-11-05T12:29:19.448+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops4/airflow/dags/experiment.py for tasks to queue
+[2023-11-05T12:29:19.449+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:29:19.448+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops4/airflow/dags/experiment.py
+[2023-11-05T12:29:19.451+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:29:19.450+0400] {dagbag.py:346} ERROR - Failed to import: /home/pyretttt/repos/mlops4/airflow/dags/experiment.py
+Traceback (most recent call last):
+  File "/home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/models/dagbag.py", line 342, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/home/pyretttt/repos/mlops4/airflow/dags/experiment.py", line 8, in <module>
+    from scripts import get_data
+ModuleNotFoundError: No module named 'scripts'
+[2023-11-05T12:29:19.451+0400] {processor.py:841} WARNING - No viable dags retrieved from /home/pyretttt/repos/mlops4/airflow/dags/experiment.py
+[2023-11-05T12:29:19.461+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops4/airflow/dags/experiment.py took 0.017 seconds
+[2023-11-05T12:29:59.986+0400] {processor.py:157} INFO - Started process (PID=50272) to work on /home/pyretttt/repos/mlops4/airflow/dags/experiment.py
+[2023-11-05T12:29:59.988+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops4/airflow/dags/experiment.py for tasks to queue
+[2023-11-05T12:29:59.989+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:29:59.988+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops4/airflow/dags/experiment.py
+[2023-11-05T12:29:59.994+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:29:59.993+0400] {dagbag.py:346} ERROR - Failed to import: /home/pyretttt/repos/mlops4/airflow/dags/experiment.py
+Traceback (most recent call last):
+  File "/home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/models/dagbag.py", line 342, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/home/pyretttt/repos/mlops4/airflow/dags/experiment.py", line 8, in <module>
+    from scripts import get_data
+ModuleNotFoundError: No module named 'scripts'
+[2023-11-05T12:29:59.994+0400] {processor.py:841} WARNING - No viable dags retrieved from /home/pyretttt/repos/mlops4/airflow/dags/experiment.py
+[2023-11-05T12:30:00.014+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops4/airflow/dags/experiment.py took 0.033 seconds
+[2023-11-05T12:30:51.322+0400] {processor.py:157} INFO - Started process (PID=50316) to work on /home/pyretttt/repos/mlops4/airflow/dags/experiment.py
+[2023-11-05T12:30:51.324+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops4/airflow/dags/experiment.py for tasks to queue
+[2023-11-05T12:30:51.325+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:30:51.325+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops4/airflow/dags/experiment.py
+[2023-11-05T12:30:51.330+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:30:51.329+0400] {dagbag.py:346} ERROR - Failed to import: /home/pyretttt/repos/mlops4/airflow/dags/experiment.py
+Traceback (most recent call last):
+  File "/home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/models/dagbag.py", line 342, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/home/pyretttt/repos/mlops4/airflow/dags/experiment.py", line 8, in <module>
+    from scripts import get_data
+ModuleNotFoundError: No module named 'scripts'
+[2023-11-05T12:30:51.331+0400] {processor.py:841} WARNING - No viable dags retrieved from /home/pyretttt/repos/mlops4/airflow/dags/experiment.py
+[2023-11-05T12:30:51.349+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops4/airflow/dags/experiment.py took 0.031 seconds
+[2023-11-05T12:31:35.737+0400] {processor.py:157} INFO - Started process (PID=50358) to work on /home/pyretttt/repos/mlops4/airflow/dags/experiment.py
+[2023-11-05T12:31:35.739+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops4/airflow/dags/experiment.py for tasks to queue
+[2023-11-05T12:31:35.741+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:31:35.740+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops4/airflow/dags/experiment.py
+[2023-11-05T12:31:35.746+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:31:35.745+0400] {dagbag.py:346} ERROR - Failed to import: /home/pyretttt/repos/mlops4/airflow/dags/experiment.py
+Traceback (most recent call last):
+  File "/home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/models/dagbag.py", line 342, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/home/pyretttt/repos/mlops4/airflow/dags/experiment.py", line 8, in <module>
+    from scripts import get_data
+ModuleNotFoundError: No module named 'scripts'
+[2023-11-05T12:31:35.746+0400] {processor.py:841} WARNING - No viable dags retrieved from /home/pyretttt/repos/mlops4/airflow/dags/experiment.py
+[2023-11-05T12:31:35.766+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops4/airflow/dags/experiment.py took 0.034 seconds
+[2023-11-05T12:32:21.316+0400] {processor.py:157} INFO - Started process (PID=50400) to work on /home/pyretttt/repos/mlops4/airflow/dags/experiment.py
+[2023-11-05T12:32:21.318+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops4/airflow/dags/experiment.py for tasks to queue
+[2023-11-05T12:32:21.319+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:32:21.318+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops4/airflow/dags/experiment.py
+[2023-11-05T12:32:21.325+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:32:21.324+0400] {dagbag.py:346} ERROR - Failed to import: /home/pyretttt/repos/mlops4/airflow/dags/experiment.py
+Traceback (most recent call last):
+  File "/home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/models/dagbag.py", line 342, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/home/pyretttt/repos/mlops4/airflow/dags/experiment.py", line 8, in <module>
+    from scripts import get_data
+ModuleNotFoundError: No module named 'scripts'
+[2023-11-05T12:32:21.325+0400] {processor.py:841} WARNING - No viable dags retrieved from /home/pyretttt/repos/mlops4/airflow/dags/experiment.py
+[2023-11-05T12:32:21.347+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops4/airflow/dags/experiment.py took 0.037 seconds
+[2023-11-05T12:33:01.899+0400] {processor.py:157} INFO - Started process (PID=50439) to work on /home/pyretttt/repos/mlops4/airflow/dags/experiment.py
+[2023-11-05T12:33:01.900+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops4/airflow/dags/experiment.py for tasks to queue
+[2023-11-05T12:33:01.902+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:33:01.901+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops4/airflow/dags/experiment.py
+[2023-11-05T12:33:01.906+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:33:01.906+0400] {dagbag.py:346} ERROR - Failed to import: /home/pyretttt/repos/mlops4/airflow/dags/experiment.py
+Traceback (most recent call last):
+  File "/home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/models/dagbag.py", line 342, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/home/pyretttt/repos/mlops4/airflow/dags/experiment.py", line 8, in <module>
+    from scripts import get_data
+ModuleNotFoundError: No module named 'scripts'
+[2023-11-05T12:33:01.907+0400] {processor.py:841} WARNING - No viable dags retrieved from /home/pyretttt/repos/mlops4/airflow/dags/experiment.py
+[2023-11-05T12:33:01.926+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops4/airflow/dags/experiment.py took 0.031 seconds
+[2023-11-05T12:33:49.969+0400] {processor.py:157} INFO - Started process (PID=50484) to work on /home/pyretttt/repos/mlops4/airflow/dags/experiment.py
+[2023-11-05T12:33:49.971+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops4/airflow/dags/experiment.py for tasks to queue
+[2023-11-05T12:33:49.972+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:33:49.971+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops4/airflow/dags/experiment.py
+[2023-11-05T12:33:49.977+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:33:49.976+0400] {dagbag.py:346} ERROR - Failed to import: /home/pyretttt/repos/mlops4/airflow/dags/experiment.py
+Traceback (most recent call last):
+  File "/home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/models/dagbag.py", line 342, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/home/pyretttt/repos/mlops4/airflow/dags/experiment.py", line 8, in <module>
+    from scripts import get_data
+ModuleNotFoundError: No module named 'scripts'
+[2023-11-05T12:33:49.978+0400] {processor.py:841} WARNING - No viable dags retrieved from /home/pyretttt/repos/mlops4/airflow/dags/experiment.py
+[2023-11-05T12:33:49.998+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops4/airflow/dags/experiment.py took 0.033 seconds
+[2023-11-05T12:34:41.188+0400] {processor.py:157} INFO - Started process (PID=50531) to work on /home/pyretttt/repos/mlops4/airflow/dags/experiment.py
+[2023-11-05T12:34:41.190+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops4/airflow/dags/experiment.py for tasks to queue
+[2023-11-05T12:34:41.191+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:34:41.190+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops4/airflow/dags/experiment.py
+[2023-11-05T12:34:41.196+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:34:41.195+0400] {dagbag.py:346} ERROR - Failed to import: /home/pyretttt/repos/mlops4/airflow/dags/experiment.py
+Traceback (most recent call last):
+  File "/home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/models/dagbag.py", line 342, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/home/pyretttt/repos/mlops4/airflow/dags/experiment.py", line 8, in <module>
+    from scripts import get_data
+ModuleNotFoundError: No module named 'scripts'
+[2023-11-05T12:34:41.196+0400] {processor.py:841} WARNING - No viable dags retrieved from /home/pyretttt/repos/mlops4/airflow/dags/experiment.py
+[2023-11-05T12:34:41.215+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops4/airflow/dags/experiment.py took 0.032 seconds
+[2023-11-05T12:35:21.474+0400] {processor.py:157} INFO - Started process (PID=50572) to work on /home/pyretttt/repos/mlops4/airflow/dags/experiment.py
+[2023-11-05T12:35:21.476+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops4/airflow/dags/experiment.py for tasks to queue
+[2023-11-05T12:35:21.477+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:35:21.477+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops4/airflow/dags/experiment.py
+[2023-11-05T12:35:21.483+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:35:21.482+0400] {dagbag.py:346} ERROR - Failed to import: /home/pyretttt/repos/mlops4/airflow/dags/experiment.py
+Traceback (most recent call last):
+  File "/home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/models/dagbag.py", line 342, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/home/pyretttt/repos/mlops4/airflow/dags/experiment.py", line 8, in <module>
+    from scripts import get_data
+ModuleNotFoundError: No module named 'scripts'
+[2023-11-05T12:35:21.483+0400] {processor.py:841} WARNING - No viable dags retrieved from /home/pyretttt/repos/mlops4/airflow/dags/experiment.py
+[2023-11-05T12:35:21.502+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops4/airflow/dags/experiment.py took 0.033 seconds
+[2023-11-05T12:35:57.330+0400] {processor.py:157} INFO - Started process (PID=50609) to work on /home/pyretttt/repos/mlops4/airflow/dags/experiment.py
+[2023-11-05T12:35:57.331+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops4/airflow/dags/experiment.py for tasks to queue
+[2023-11-05T12:35:57.333+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:35:57.332+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops4/airflow/dags/experiment.py
+[2023-11-05T12:35:57.336+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:35:57.336+0400] {dagbag.py:346} ERROR - Failed to import: /home/pyretttt/repos/mlops4/airflow/dags/experiment.py
+Traceback (most recent call last):
+  File "/home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/models/dagbag.py", line 342, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/home/pyretttt/repos/mlops4/airflow/dags/experiment.py", line 8, in <module>
+    from scripts import get_data
+ModuleNotFoundError: No module named 'scripts'
+[2023-11-05T12:35:57.337+0400] {processor.py:841} WARNING - No viable dags retrieved from /home/pyretttt/repos/mlops4/airflow/dags/experiment.py
+[2023-11-05T12:35:57.355+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops4/airflow/dags/experiment.py took 0.028 seconds
+[2023-11-05T12:36:30.771+0400] {processor.py:157} INFO - Started process (PID=50645) to work on /home/pyretttt/repos/mlops4/airflow/dags/experiment.py
+[2023-11-05T12:36:30.772+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops4/airflow/dags/experiment.py for tasks to queue
+[2023-11-05T12:36:30.774+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:36:30.773+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops4/airflow/dags/experiment.py
+[2023-11-05T12:36:30.779+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:36:30.778+0400] {dagbag.py:346} ERROR - Failed to import: /home/pyretttt/repos/mlops4/airflow/dags/experiment.py
+Traceback (most recent call last):
+  File "/home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/models/dagbag.py", line 342, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/home/pyretttt/repos/mlops4/airflow/dags/experiment.py", line 8, in <module>
+    from scripts import get_data
+ModuleNotFoundError: No module named 'scripts'
+[2023-11-05T12:36:30.779+0400] {processor.py:841} WARNING - No viable dags retrieved from /home/pyretttt/repos/mlops4/airflow/dags/experiment.py
+[2023-11-05T12:36:30.798+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops4/airflow/dags/experiment.py took 0.031 seconds
+[2023-11-05T12:37:05.948+0400] {processor.py:157} INFO - Started process (PID=50706) to work on /home/pyretttt/repos/mlops4/airflow/dags/experiment.py
+[2023-11-05T12:37:05.951+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops4/airflow/dags/experiment.py for tasks to queue
+[2023-11-05T12:37:05.953+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:37:05.952+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops4/airflow/dags/experiment.py
+[2023-11-05T12:37:05.958+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:37:05.956+0400] {dagbag.py:346} ERROR - Failed to import: /home/pyretttt/repos/mlops4/airflow/dags/experiment.py
+Traceback (most recent call last):
+  File "/home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/models/dagbag.py", line 342, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/home/pyretttt/repos/mlops4/airflow/dags/experiment.py", line 8, in <module>
+    from scripts import get_data
+ModuleNotFoundError: No module named 'scripts'
+[2023-11-05T12:37:05.958+0400] {processor.py:841} WARNING - No viable dags retrieved from /home/pyretttt/repos/mlops4/airflow/dags/experiment.py
+[2023-11-05T12:37:05.979+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops4/airflow/dags/experiment.py took 0.036 seconds
+[2023-11-05T12:37:44.229+0400] {processor.py:157} INFO - Started process (PID=50744) to work on /home/pyretttt/repos/mlops4/airflow/dags/experiment.py
+[2023-11-05T12:37:44.230+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops4/airflow/dags/experiment.py for tasks to queue
+[2023-11-05T12:37:44.231+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:37:44.231+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops4/airflow/dags/experiment.py
+[2023-11-05T12:37:44.237+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:37:44.235+0400] {dagbag.py:346} ERROR - Failed to import: /home/pyretttt/repos/mlops4/airflow/dags/experiment.py
+Traceback (most recent call last):
+  File "/home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/models/dagbag.py", line 342, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/home/pyretttt/repos/mlops4/airflow/dags/experiment.py", line 8, in <module>
+    from scripts import get_data
+ModuleNotFoundError: No module named 'scripts'
+[2023-11-05T12:37:44.237+0400] {processor.py:841} WARNING - No viable dags retrieved from /home/pyretttt/repos/mlops4/airflow/dags/experiment.py
+[2023-11-05T12:37:44.260+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops4/airflow/dags/experiment.py took 0.035 seconds
+[2023-11-05T12:38:22.923+0400] {processor.py:157} INFO - Started process (PID=50781) to work on /home/pyretttt/repos/mlops4/airflow/dags/experiment.py
+[2023-11-05T12:38:22.926+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops4/airflow/dags/experiment.py for tasks to queue
+[2023-11-05T12:38:22.927+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:38:22.926+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops4/airflow/dags/experiment.py
+[2023-11-05T12:38:22.932+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:38:22.931+0400] {dagbag.py:346} ERROR - Failed to import: /home/pyretttt/repos/mlops4/airflow/dags/experiment.py
+Traceback (most recent call last):
+  File "/home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/models/dagbag.py", line 342, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/home/pyretttt/repos/mlops4/airflow/dags/experiment.py", line 8, in <module>
+    from scripts import get_data
+ModuleNotFoundError: No module named 'scripts'
+[2023-11-05T12:38:22.932+0400] {processor.py:841} WARNING - No viable dags retrieved from /home/pyretttt/repos/mlops4/airflow/dags/experiment.py
+[2023-11-05T12:38:22.951+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops4/airflow/dags/experiment.py took 0.032 seconds
+[2023-11-05T12:38:58.499+0400] {processor.py:157} INFO - Started process (PID=50820) to work on /home/pyretttt/repos/mlops4/airflow/dags/experiment.py
+[2023-11-05T12:38:58.502+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops4/airflow/dags/experiment.py for tasks to queue
+[2023-11-05T12:38:58.503+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:38:58.502+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops4/airflow/dags/experiment.py
+[2023-11-05T12:38:58.508+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:38:58.507+0400] {dagbag.py:346} ERROR - Failed to import: /home/pyretttt/repos/mlops4/airflow/dags/experiment.py
+Traceback (most recent call last):
+  File "/home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/models/dagbag.py", line 342, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/home/pyretttt/repos/mlops4/airflow/dags/experiment.py", line 9, in <module>
+    from scripts import get_data
+ModuleNotFoundError: No module named 'scripts'
+[2023-11-05T12:38:58.509+0400] {processor.py:841} WARNING - No viable dags retrieved from /home/pyretttt/repos/mlops4/airflow/dags/experiment.py
+[2023-11-05T12:38:58.529+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops4/airflow/dags/experiment.py took 0.033 seconds
+[2023-11-05T12:39:35.724+0400] {processor.py:157} INFO - Started process (PID=50861) to work on /home/pyretttt/repos/mlops4/airflow/dags/experiment.py
+[2023-11-05T12:39:35.726+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops4/airflow/dags/experiment.py for tasks to queue
+[2023-11-05T12:39:35.727+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:39:35.726+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops4/airflow/dags/experiment.py
+[2023-11-05T12:39:35.732+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:39:35.731+0400] {dagbag.py:346} ERROR - Failed to import: /home/pyretttt/repos/mlops4/airflow/dags/experiment.py
+Traceback (most recent call last):
+  File "/home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/models/dagbag.py", line 342, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/home/pyretttt/repos/mlops4/airflow/dags/experiment.py", line 9, in <module>
+    from scripts import get_data
+ModuleNotFoundError: No module named 'scripts'
+[2023-11-05T12:39:35.732+0400] {processor.py:841} WARNING - No viable dags retrieved from /home/pyretttt/repos/mlops4/airflow/dags/experiment.py
+[2023-11-05T12:39:35.751+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops4/airflow/dags/experiment.py took 0.032 seconds
+[2023-11-05T12:40:11.992+0400] {processor.py:157} INFO - Started process (PID=50900) to work on /home/pyretttt/repos/mlops4/airflow/dags/experiment.py
+[2023-11-05T12:40:11.994+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops4/airflow/dags/experiment.py for tasks to queue
+[2023-11-05T12:40:11.995+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:40:11.995+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops4/airflow/dags/experiment.py
+[2023-11-05T12:40:12.002+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:40:12.001+0400] {dagbag.py:346} ERROR - Failed to import: /home/pyretttt/repos/mlops4/airflow/dags/experiment.py
+Traceback (most recent call last):
+  File "/home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/models/dagbag.py", line 342, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/home/pyretttt/repos/mlops4/airflow/dags/experiment.py", line 9, in <module>
+    import scripts
+ModuleNotFoundError: No module named 'scripts'
+[2023-11-05T12:40:12.002+0400] {processor.py:841} WARNING - No viable dags retrieved from /home/pyretttt/repos/mlops4/airflow/dags/experiment.py
+[2023-11-05T12:40:12.022+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops4/airflow/dags/experiment.py took 0.035 seconds
+[2023-11-05T12:40:48.457+0400] {processor.py:157} INFO - Started process (PID=50939) to work on /home/pyretttt/repos/mlops4/airflow/dags/experiment.py
+[2023-11-05T12:40:48.459+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops4/airflow/dags/experiment.py for tasks to queue
+[2023-11-05T12:40:48.460+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:40:48.459+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops4/airflow/dags/experiment.py
+[2023-11-05T12:40:48.465+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:40:48.465+0400] {dagbag.py:346} ERROR - Failed to import: /home/pyretttt/repos/mlops4/airflow/dags/experiment.py
+Traceback (most recent call last):
+  File "/home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/models/dagbag.py", line 342, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/home/pyretttt/repos/mlops4/airflow/dags/experiment.py", line 9, in <module>
+    import scripts
+ModuleNotFoundError: No module named 'scripts'
+[2023-11-05T12:40:48.466+0400] {processor.py:841} WARNING - No viable dags retrieved from /home/pyretttt/repos/mlops4/airflow/dags/experiment.py
+[2023-11-05T12:40:48.487+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops4/airflow/dags/experiment.py took 0.034 seconds
+[2023-11-05T12:41:06.937+0400] {processor.py:157} INFO - Started process (PID=50958) to work on /home/pyretttt/repos/mlops4/airflow/dags/experiment.py
+[2023-11-05T12:41:06.938+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops4/airflow/dags/experiment.py for tasks to queue
+[2023-11-05T12:41:06.940+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:41:06.939+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops4/airflow/dags/experiment.py
+[2023-11-05T12:41:06.946+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:41:06.945+0400] {dagbag.py:346} ERROR - Failed to import: /home/pyretttt/repos/mlops4/airflow/dags/experiment.py
+Traceback (most recent call last):
+  File "/home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/models/dagbag.py", line 342, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/home/pyretttt/repos/mlops4/airflow/dags/experiment.py", line 9, in <module>
+    import scripts
+ModuleNotFoundError: No module named 'scripts'
+[2023-11-05T12:41:06.946+0400] {processor.py:841} WARNING - No viable dags retrieved from /home/pyretttt/repos/mlops4/airflow/dags/experiment.py
+[2023-11-05T12:41:06.967+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops4/airflow/dags/experiment.py took 0.034 seconds
+[2023-11-05T12:41:43.256+0400] {processor.py:157} INFO - Started process (PID=50996) to work on /home/pyretttt/repos/mlops4/airflow/dags/experiment.py
+[2023-11-05T12:41:43.257+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops4/airflow/dags/experiment.py for tasks to queue
+[2023-11-05T12:41:43.258+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:41:43.257+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops4/airflow/dags/experiment.py
+[2023-11-05T12:41:43.260+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:41:43.260+0400] {dagbag.py:346} ERROR - Failed to import: /home/pyretttt/repos/mlops4/airflow/dags/experiment.py
+Traceback (most recent call last):
+  File "/home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/models/dagbag.py", line 342, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/home/pyretttt/repos/mlops4/airflow/dags/experiment.py", line 9, in <module>
+    import scripts
+ModuleNotFoundError: No module named 'scripts'
+[2023-11-05T12:41:43.260+0400] {processor.py:841} WARNING - No viable dags retrieved from /home/pyretttt/repos/mlops4/airflow/dags/experiment.py
+[2023-11-05T12:41:43.270+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops4/airflow/dags/experiment.py took 0.015 seconds
+[2023-11-05T12:42:22.419+0400] {processor.py:157} INFO - Started process (PID=51034) to work on /home/pyretttt/repos/mlops4/airflow/dags/experiment.py
+[2023-11-05T12:42:22.421+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops4/airflow/dags/experiment.py for tasks to queue
+[2023-11-05T12:42:22.422+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:42:22.421+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops4/airflow/dags/experiment.py
+[2023-11-05T12:42:22.427+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:42:22.426+0400] {dagbag.py:346} ERROR - Failed to import: /home/pyretttt/repos/mlops4/airflow/dags/experiment.py
+Traceback (most recent call last):
+  File "/home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/models/dagbag.py", line 342, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/home/pyretttt/repos/mlops4/airflow/dags/experiment.py", line 9, in <module>
+    import scripts
+ModuleNotFoundError: No module named 'scripts'
+[2023-11-05T12:42:22.427+0400] {processor.py:841} WARNING - No viable dags retrieved from /home/pyretttt/repos/mlops4/airflow/dags/experiment.py
+[2023-11-05T12:42:22.446+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops4/airflow/dags/experiment.py took 0.032 seconds
+[2023-11-05T12:42:41.486+0400] {processor.py:157} INFO - Started process (PID=51055) to work on /home/pyretttt/repos/mlops4/airflow/dags/experiment.py
+[2023-11-05T12:42:41.488+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops4/airflow/dags/experiment.py for tasks to queue
+[2023-11-05T12:42:41.489+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:42:41.488+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops4/airflow/dags/experiment.py
+[2023-11-05T12:42:41.497+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:42:41.496+0400] {dagbag.py:346} ERROR - Failed to import: /home/pyretttt/repos/mlops4/airflow/dags/experiment.py
+Traceback (most recent call last):
+  File "/home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/models/dagbag.py", line 342, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/home/pyretttt/repos/mlops4/airflow/dags/experiment.py", line 9, in <module>
+    import scripts
+ModuleNotFoundError: No module named 'scripts'
+[2023-11-05T12:42:41.497+0400] {processor.py:841} WARNING - No viable dags retrieved from /home/pyretttt/repos/mlops4/airflow/dags/experiment.py
+[2023-11-05T12:42:41.518+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops4/airflow/dags/experiment.py took 0.037 seconds
+[2023-11-05T12:43:17.950+0400] {processor.py:157} INFO - Started process (PID=51094) to work on /home/pyretttt/repos/mlops4/airflow/dags/experiment.py
+[2023-11-05T12:43:17.952+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops4/airflow/dags/experiment.py for tasks to queue
+[2023-11-05T12:43:17.953+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:43:17.953+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops4/airflow/dags/experiment.py
+[2023-11-05T12:43:17.964+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:43:17.963+0400] {dagbag.py:346} ERROR - Failed to import: /home/pyretttt/repos/mlops4/airflow/dags/experiment.py
+Traceback (most recent call last):
+  File "/home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/models/dagbag.py", line 342, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/home/pyretttt/repos/mlops4/airflow/dags/experiment.py", line 27, in <module>
+    get_data = scripts.get_data.task
+AttributeError: module 'scripts' has no attribute 'get_data'
+[2023-11-05T12:43:17.965+0400] {processor.py:841} WARNING - No viable dags retrieved from /home/pyretttt/repos/mlops4/airflow/dags/experiment.py
+[2023-11-05T12:43:17.983+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops4/airflow/dags/experiment.py took 0.038 seconds
+[2023-11-05T12:43:56.395+0400] {processor.py:157} INFO - Started process (PID=51151) to work on /home/pyretttt/repos/mlops4/airflow/dags/experiment.py
+[2023-11-05T12:43:56.397+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops4/airflow/dags/experiment.py for tasks to queue
+[2023-11-05T12:43:56.398+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:43:56.397+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops4/airflow/dags/experiment.py
+[2023-11-05T12:43:56.409+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:43:56.408+0400] {dagbag.py:346} ERROR - Failed to import: /home/pyretttt/repos/mlops4/airflow/dags/experiment.py
+Traceback (most recent call last):
+  File "/home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/models/dagbag.py", line 342, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/home/pyretttt/repos/mlops4/airflow/dags/experiment.py", line 27, in <module>
+    get_data = scripts.get_data.task
+AttributeError: module 'scripts' has no attribute 'get_data'
+[2023-11-05T12:43:56.410+0400] {processor.py:841} WARNING - No viable dags retrieved from /home/pyretttt/repos/mlops4/airflow/dags/experiment.py
+[2023-11-05T12:43:56.429+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops4/airflow/dags/experiment.py took 0.038 seconds
+[2023-11-05T12:44:30.318+0400] {processor.py:157} INFO - Started process (PID=51187) to work on /home/pyretttt/repos/mlops4/airflow/dags/experiment.py
+[2023-11-05T12:44:30.320+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops4/airflow/dags/experiment.py for tasks to queue
+[2023-11-05T12:44:30.322+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:44:30.321+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops4/airflow/dags/experiment.py
+[2023-11-05T12:44:30.329+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:44:30.327+0400] {dagbag.py:346} ERROR - Failed to import: /home/pyretttt/repos/mlops4/airflow/dags/experiment.py
+Traceback (most recent call last):
+  File "/home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/models/dagbag.py", line 342, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/home/pyretttt/repos/mlops4/airflow/dags/experiment.py", line 10, in <module>
+    from scripts import get_data
+  File "/home/pyretttt/repos/mlops4/scripts/get_data.py", line 8, in <module>
+    @task('get_data')
+  File "/home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/decorators/python.py", line 72, in python_task
+    return task_decorator_factory(
+  File "/home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/decorators/base.py", line 626, in task_decorator_factory
+    decorator = _TaskDecorator(
+  File "<attrs generated init airflow.decorators.base._TaskDecorator>", line 8, in __init__
+    _setattr('multiple_outputs', __attr_factory_multiple_outputs(self))
+  File "/home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/decorators/base.py", line 311, in _infer_multiple_outputs
+    if "return" not in self.function.__annotations__:
+AttributeError: 'str' object has no attribute '__annotations__'. Did you mean: '__contains__'?
+[2023-11-05T12:44:30.330+0400] {processor.py:841} WARNING - No viable dags retrieved from /home/pyretttt/repos/mlops4/airflow/dags/experiment.py
+[2023-11-05T12:44:30.350+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops4/airflow/dags/experiment.py took 0.036 seconds
+[2023-11-05T12:45:06.732+0400] {processor.py:157} INFO - Started process (PID=51225) to work on /home/pyretttt/repos/mlops4/airflow/dags/experiment.py
+[2023-11-05T12:45:06.735+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops4/airflow/dags/experiment.py for tasks to queue
+[2023-11-05T12:45:06.736+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:45:06.735+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops4/airflow/dags/experiment.py
+[2023-11-05T12:45:06.743+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:45:06.741+0400] {dagbag.py:346} ERROR - Failed to import: /home/pyretttt/repos/mlops4/airflow/dags/experiment.py
+Traceback (most recent call last):
+  File "/home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/models/dagbag.py", line 342, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/home/pyretttt/repos/mlops4/airflow/dags/experiment.py", line 10, in <module>
+    from scripts import get_data
+  File "/home/pyretttt/repos/mlops4/scripts/get_data.py", line 8, in <module>
+    @task('get_data')
+  File "/home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/decorators/python.py", line 72, in python_task
+    return task_decorator_factory(
+  File "/home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/decorators/base.py", line 626, in task_decorator_factory
+    decorator = _TaskDecorator(
+  File "<attrs generated init airflow.decorators.base._TaskDecorator>", line 8, in __init__
+    _setattr('multiple_outputs', __attr_factory_multiple_outputs(self))
+  File "/home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/decorators/base.py", line 311, in _infer_multiple_outputs
+    if "return" not in self.function.__annotations__:
+AttributeError: 'str' object has no attribute '__annotations__'. Did you mean: '__contains__'?
+[2023-11-05T12:45:06.744+0400] {processor.py:841} WARNING - No viable dags retrieved from /home/pyretttt/repos/mlops4/airflow/dags/experiment.py
+[2023-11-05T12:45:06.762+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops4/airflow/dags/experiment.py took 0.034 seconds
+[2023-11-05T12:45:43.921+0400] {processor.py:157} INFO - Started process (PID=51264) to work on /home/pyretttt/repos/mlops4/airflow/dags/experiment.py
+[2023-11-05T12:45:43.923+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops4/airflow/dags/experiment.py for tasks to queue
+[2023-11-05T12:45:43.924+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:45:43.923+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops4/airflow/dags/experiment.py
+[2023-11-05T12:45:43.931+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:45:43.929+0400] {dagbag.py:346} ERROR - Failed to import: /home/pyretttt/repos/mlops4/airflow/dags/experiment.py
+Traceback (most recent call last):
+  File "/home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/models/dagbag.py", line 342, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/home/pyretttt/repos/mlops4/airflow/dags/experiment.py", line 10, in <module>
+    from scripts import get_data
+  File "/home/pyretttt/repos/mlops4/scripts/get_data.py", line 8, in <module>
+    @task('get_data')
+  File "/home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/decorators/python.py", line 72, in python_task
+    return task_decorator_factory(
+  File "/home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/decorators/base.py", line 626, in task_decorator_factory
+    decorator = _TaskDecorator(
+  File "<attrs generated init airflow.decorators.base._TaskDecorator>", line 8, in __init__
+    _setattr('multiple_outputs', __attr_factory_multiple_outputs(self))
+  File "/home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/decorators/base.py", line 311, in _infer_multiple_outputs
+    if "return" not in self.function.__annotations__:
+AttributeError: 'str' object has no attribute '__annotations__'. Did you mean: '__contains__'?
+[2023-11-05T12:45:43.932+0400] {processor.py:841} WARNING - No viable dags retrieved from /home/pyretttt/repos/mlops4/airflow/dags/experiment.py
+[2023-11-05T12:45:43.952+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops4/airflow/dags/experiment.py took 0.036 seconds
+[2023-11-05T12:46:18.343+0400] {processor.py:157} INFO - Started process (PID=51304) to work on /home/pyretttt/repos/mlops4/airflow/dags/experiment.py
+[2023-11-05T12:46:18.345+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops4/airflow/dags/experiment.py for tasks to queue
+[2023-11-05T12:46:18.346+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:46:18.345+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops4/airflow/dags/experiment.py
+[2023-11-05T12:46:18.353+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:46:18.351+0400] {dagbag.py:346} ERROR - Failed to import: /home/pyretttt/repos/mlops4/airflow/dags/experiment.py
+Traceback (most recent call last):
+  File "/home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/models/dagbag.py", line 342, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/home/pyretttt/repos/mlops4/airflow/dags/experiment.py", line 10, in <module>
+    from scripts import get_data
+  File "/home/pyretttt/repos/mlops4/scripts/get_data.py", line 8, in <module>
+    @task('get_data')
+  File "/home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/decorators/python.py", line 72, in python_task
+    return task_decorator_factory(
+  File "/home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/decorators/base.py", line 626, in task_decorator_factory
+    decorator = _TaskDecorator(
+  File "<attrs generated init airflow.decorators.base._TaskDecorator>", line 8, in __init__
+    _setattr('multiple_outputs', __attr_factory_multiple_outputs(self))
+  File "/home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/decorators/base.py", line 311, in _infer_multiple_outputs
+    if "return" not in self.function.__annotations__:
+AttributeError: 'str' object has no attribute '__annotations__'. Did you mean: '__contains__'?
+[2023-11-05T12:46:18.354+0400] {processor.py:841} WARNING - No viable dags retrieved from /home/pyretttt/repos/mlops4/airflow/dags/experiment.py
+[2023-11-05T12:46:18.372+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops4/airflow/dags/experiment.py took 0.034 seconds
+[2023-11-05T12:46:53.427+0400] {processor.py:157} INFO - Started process (PID=51339) to work on /home/pyretttt/repos/mlops4/airflow/dags/experiment.py
+[2023-11-05T12:46:53.429+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops4/airflow/dags/experiment.py for tasks to queue
+[2023-11-05T12:46:53.430+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:46:53.429+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops4/airflow/dags/experiment.py
+[2023-11-05T12:46:53.437+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:46:53.435+0400] {dagbag.py:346} ERROR - Failed to import: /home/pyretttt/repos/mlops4/airflow/dags/experiment.py
+Traceback (most recent call last):
+  File "/home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/models/dagbag.py", line 342, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/home/pyretttt/repos/mlops4/airflow/dags/experiment.py", line 10, in <module>
+    from scripts import get_data
+  File "/home/pyretttt/repos/mlops4/scripts/get_data.py", line 8, in <module>
+    @task('get_data')
+  File "/home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/decorators/python.py", line 72, in python_task
+    return task_decorator_factory(
+  File "/home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/decorators/base.py", line 626, in task_decorator_factory
+    decorator = _TaskDecorator(
+  File "<attrs generated init airflow.decorators.base._TaskDecorator>", line 8, in __init__
+    _setattr('multiple_outputs', __attr_factory_multiple_outputs(self))
+  File "/home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/decorators/base.py", line 311, in _infer_multiple_outputs
+    if "return" not in self.function.__annotations__:
+AttributeError: 'str' object has no attribute '__annotations__'. Did you mean: '__contains__'?
+[2023-11-05T12:46:53.438+0400] {processor.py:841} WARNING - No viable dags retrieved from /home/pyretttt/repos/mlops4/airflow/dags/experiment.py
+[2023-11-05T12:46:53.458+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops4/airflow/dags/experiment.py took 0.036 seconds
+[2023-11-05T12:47:28.737+0400] {processor.py:157} INFO - Started process (PID=51377) to work on /home/pyretttt/repos/mlops4/airflow/dags/experiment.py
+[2023-11-05T12:47:28.739+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops4/airflow/dags/experiment.py for tasks to queue
+[2023-11-05T12:47:28.741+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:47:28.740+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops4/airflow/dags/experiment.py
+[2023-11-05T12:47:28.749+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:47:28.746+0400] {dagbag.py:346} ERROR - Failed to import: /home/pyretttt/repos/mlops4/airflow/dags/experiment.py
+Traceback (most recent call last):
+  File "/home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/models/dagbag.py", line 342, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/home/pyretttt/repos/mlops4/airflow/dags/experiment.py", line 10, in <module>
+    from scripts import get_data
+  File "/home/pyretttt/repos/mlops4/scripts/get_data.py", line 8, in <module>
+    @task('get_data')
+  File "/home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/decorators/python.py", line 72, in python_task
+    return task_decorator_factory(
+  File "/home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/decorators/base.py", line 626, in task_decorator_factory
+    decorator = _TaskDecorator(
+  File "<attrs generated init airflow.decorators.base._TaskDecorator>", line 8, in __init__
+    _setattr('multiple_outputs', __attr_factory_multiple_outputs(self))
+  File "/home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/decorators/base.py", line 311, in _infer_multiple_outputs
+    if "return" not in self.function.__annotations__:
+AttributeError: 'str' object has no attribute '__annotations__'. Did you mean: '__contains__'?
+[2023-11-05T12:47:28.749+0400] {processor.py:841} WARNING - No viable dags retrieved from /home/pyretttt/repos/mlops4/airflow/dags/experiment.py
+[2023-11-05T12:47:28.769+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops4/airflow/dags/experiment.py took 0.036 seconds
+[2023-11-05T12:48:06.158+0400] {processor.py:157} INFO - Started process (PID=51414) to work on /home/pyretttt/repos/mlops4/airflow/dags/experiment.py
+[2023-11-05T12:48:06.160+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops4/airflow/dags/experiment.py for tasks to queue
+[2023-11-05T12:48:06.162+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:48:06.161+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops4/airflow/dags/experiment.py
+[2023-11-05T12:48:06.168+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:48:06.166+0400] {dagbag.py:346} ERROR - Failed to import: /home/pyretttt/repos/mlops4/airflow/dags/experiment.py
+Traceback (most recent call last):
+  File "/home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/models/dagbag.py", line 342, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/home/pyretttt/repos/mlops4/airflow/dags/experiment.py", line 10, in <module>
+    from scripts import get_data
+  File "/home/pyretttt/repos/mlops4/scripts/get_data.py", line 8, in <module>
+    @task('get_data')
+  File "/home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/decorators/python.py", line 72, in python_task
+    return task_decorator_factory(
+  File "/home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/decorators/base.py", line 626, in task_decorator_factory
+    decorator = _TaskDecorator(
+  File "<attrs generated init airflow.decorators.base._TaskDecorator>", line 8, in __init__
+    _setattr('multiple_outputs', __attr_factory_multiple_outputs(self))
+  File "/home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/decorators/base.py", line 311, in _infer_multiple_outputs
+    if "return" not in self.function.__annotations__:
+AttributeError: 'str' object has no attribute '__annotations__'. Did you mean: '__contains__'?
+[2023-11-05T12:48:06.169+0400] {processor.py:841} WARNING - No viable dags retrieved from /home/pyretttt/repos/mlops4/airflow/dags/experiment.py
+[2023-11-05T12:48:06.187+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops4/airflow/dags/experiment.py took 0.034 seconds
+[2023-11-05T12:48:44.227+0400] {processor.py:157} INFO - Started process (PID=51454) to work on /home/pyretttt/repos/mlops4/airflow/dags/experiment.py
+[2023-11-05T12:48:44.228+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops4/airflow/dags/experiment.py for tasks to queue
+[2023-11-05T12:48:44.229+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:48:44.229+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops4/airflow/dags/experiment.py
+[2023-11-05T12:48:44.234+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:48:44.233+0400] {dagbag.py:346} ERROR - Failed to import: /home/pyretttt/repos/mlops4/airflow/dags/experiment.py
+Traceback (most recent call last):
+  File "/home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/models/dagbag.py", line 342, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/home/pyretttt/repos/mlops4/airflow/dags/experiment.py", line 10, in <module>
+    from scripts import get_data
+  File "/home/pyretttt/repos/mlops4/scripts/get_data.py", line 8, in <module>
+    @task('get_data')
+  File "/home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/decorators/python.py", line 72, in python_task
+    return task_decorator_factory(
+  File "/home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/decorators/base.py", line 626, in task_decorator_factory
+    decorator = _TaskDecorator(
+  File "<attrs generated init airflow.decorators.base._TaskDecorator>", line 8, in __init__
+    _setattr('multiple_outputs', __attr_factory_multiple_outputs(self))
+  File "/home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/decorators/base.py", line 311, in _infer_multiple_outputs
+    if "return" not in self.function.__annotations__:
+AttributeError: 'str' object has no attribute '__annotations__'. Did you mean: '__contains__'?
+[2023-11-05T12:48:44.235+0400] {processor.py:841} WARNING - No viable dags retrieved from /home/pyretttt/repos/mlops4/airflow/dags/experiment.py
+[2023-11-05T12:48:44.246+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops4/airflow/dags/experiment.py took 0.022 seconds
+[2023-11-05T12:49:21.964+0400] {processor.py:157} INFO - Started process (PID=51491) to work on /home/pyretttt/repos/mlops4/airflow/dags/experiment.py
+[2023-11-05T12:49:21.966+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops4/airflow/dags/experiment.py for tasks to queue
+[2023-11-05T12:49:21.968+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:49:21.967+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops4/airflow/dags/experiment.py
+[2023-11-05T12:49:21.975+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:49:21.973+0400] {dagbag.py:346} ERROR - Failed to import: /home/pyretttt/repos/mlops4/airflow/dags/experiment.py
+Traceback (most recent call last):
+  File "/home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/models/dagbag.py", line 342, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/home/pyretttt/repos/mlops4/airflow/dags/experiment.py", line 10, in <module>
+    from scripts import get_data
+  File "/home/pyretttt/repos/mlops4/scripts/get_data.py", line 8, in <module>
+    @task('get_data')
+  File "/home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/decorators/python.py", line 72, in python_task
+    return task_decorator_factory(
+  File "/home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/decorators/base.py", line 626, in task_decorator_factory
+    decorator = _TaskDecorator(
+  File "<attrs generated init airflow.decorators.base._TaskDecorator>", line 8, in __init__
+    _setattr('multiple_outputs', __attr_factory_multiple_outputs(self))
+  File "/home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/decorators/base.py", line 311, in _infer_multiple_outputs
+    if "return" not in self.function.__annotations__:
+AttributeError: 'str' object has no attribute '__annotations__'. Did you mean: '__contains__'?
+[2023-11-05T12:49:21.976+0400] {processor.py:841} WARNING - No viable dags retrieved from /home/pyretttt/repos/mlops4/airflow/dags/experiment.py
+[2023-11-05T12:49:21.994+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops4/airflow/dags/experiment.py took 0.034 seconds
+[2023-11-05T12:50:01.825+0400] {processor.py:157} INFO - Started process (PID=51532) to work on /home/pyretttt/repos/mlops4/airflow/dags/experiment.py
+[2023-11-05T12:50:01.827+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops4/airflow/dags/experiment.py for tasks to queue
+[2023-11-05T12:50:01.828+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:50:01.827+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops4/airflow/dags/experiment.py
+[2023-11-05T12:50:01.842+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:50:01.840+0400] {dagbag.py:346} ERROR - Failed to import: /home/pyretttt/repos/mlops4/airflow/dags/experiment.py
+Traceback (most recent call last):
+  File "/home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/models/dagbag.py", line 342, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/home/pyretttt/repos/mlops4/airflow/dags/experiment.py", line 40, in <module>
+    get_data >> prepare_data >> experiment
+  File "/home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/models/taskmixin.py", line 103, in __rshift__
+    self.set_downstream(other)
+  File "/home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/models/xcom_arg.py", line 155, in set_downstream
+    operator.set_downstream(task_or_task_list, edge_modifier)
+  File "/home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/models/taskmixin.py", line 261, in set_downstream
+    self._set_relatives(task_or_task_list, upstream=False, edge_modifier=edge_modifier)
+  File "/home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/models/taskmixin.py", line 238, in _set_relatives
+    self.dag = dag
+  File "/home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/models/baseoperator.py", line 1045, in __setattr__
+    super().__setattr__(key, value)
+  File "/home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/models/baseoperator.py", line 1106, in dag
+    dag.add_task(self)
+  File "/home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/models/dag.py", line 2556, in add_task
+    raise AirflowException("DAG is missing the start_date parameter")
+airflow.exceptions.AirflowException: DAG is missing the start_date parameter
+[2023-11-05T12:50:01.842+0400] {processor.py:841} WARNING - No viable dags retrieved from /home/pyretttt/repos/mlops4/airflow/dags/experiment.py
+[2023-11-05T12:50:01.859+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops4/airflow/dags/experiment.py took 0.039 seconds
+[2023-11-05T12:50:40.161+0400] {processor.py:157} INFO - Started process (PID=51588) to work on /home/pyretttt/repos/mlops4/airflow/dags/experiment.py
+[2023-11-05T12:50:40.163+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops4/airflow/dags/experiment.py for tasks to queue
+[2023-11-05T12:50:40.164+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:50:40.163+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops4/airflow/dags/experiment.py
+[2023-11-05T12:50:40.177+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:50:40.175+0400] {dagbag.py:346} ERROR - Failed to import: /home/pyretttt/repos/mlops4/airflow/dags/experiment.py
+Traceback (most recent call last):
+  File "/home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/models/dagbag.py", line 342, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/home/pyretttt/repos/mlops4/airflow/dags/experiment.py", line 40, in <module>
+    get_data >> prepare_data >> experiment
+  File "/home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/models/taskmixin.py", line 103, in __rshift__
+    self.set_downstream(other)
+  File "/home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/models/xcom_arg.py", line 155, in set_downstream
+    operator.set_downstream(task_or_task_list, edge_modifier)
+  File "/home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/models/taskmixin.py", line 261, in set_downstream
+    self._set_relatives(task_or_task_list, upstream=False, edge_modifier=edge_modifier)
+  File "/home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/models/taskmixin.py", line 238, in _set_relatives
+    self.dag = dag
+  File "/home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/models/baseoperator.py", line 1045, in __setattr__
+    super().__setattr__(key, value)
+  File "/home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/models/baseoperator.py", line 1106, in dag
+    dag.add_task(self)
+  File "/home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/models/dag.py", line 2556, in add_task
+    raise AirflowException("DAG is missing the start_date parameter")
+airflow.exceptions.AirflowException: DAG is missing the start_date parameter
+[2023-11-05T12:50:40.177+0400] {processor.py:841} WARNING - No viable dags retrieved from /home/pyretttt/repos/mlops4/airflow/dags/experiment.py
+[2023-11-05T12:50:40.194+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops4/airflow/dags/experiment.py took 0.038 seconds
+[2023-11-05T12:51:18.793+0400] {processor.py:157} INFO - Started process (PID=51628) to work on /home/pyretttt/repos/mlops4/airflow/dags/experiment.py
+[2023-11-05T12:51:18.795+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops4/airflow/dags/experiment.py for tasks to queue
+[2023-11-05T12:51:18.796+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:51:18.795+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops4/airflow/dags/experiment.py
+[2023-11-05T12:51:18.809+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:51:18.807+0400] {dagbag.py:346} ERROR - Failed to import: /home/pyretttt/repos/mlops4/airflow/dags/experiment.py
+Traceback (most recent call last):
+  File "/home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/models/dagbag.py", line 342, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/home/pyretttt/repos/mlops4/airflow/dags/experiment.py", line 40, in <module>
+    get_data >> prepare_data >> experiment
+  File "/home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/models/taskmixin.py", line 103, in __rshift__
+    self.set_downstream(other)
+  File "/home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/models/xcom_arg.py", line 155, in set_downstream
+    operator.set_downstream(task_or_task_list, edge_modifier)
+  File "/home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/models/taskmixin.py", line 261, in set_downstream
+    self._set_relatives(task_or_task_list, upstream=False, edge_modifier=edge_modifier)
+  File "/home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/models/taskmixin.py", line 238, in _set_relatives
+    self.dag = dag
+  File "/home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/models/baseoperator.py", line 1045, in __setattr__
+    super().__setattr__(key, value)
+  File "/home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/models/baseoperator.py", line 1106, in dag
+    dag.add_task(self)
+  File "/home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/models/dag.py", line 2556, in add_task
+    raise AirflowException("DAG is missing the start_date parameter")
+airflow.exceptions.AirflowException: DAG is missing the start_date parameter
+[2023-11-05T12:51:18.809+0400] {processor.py:841} WARNING - No viable dags retrieved from /home/pyretttt/repos/mlops4/airflow/dags/experiment.py
+[2023-11-05T12:51:18.826+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops4/airflow/dags/experiment.py took 0.038 seconds
+[2023-11-05T12:51:54.494+0400] {processor.py:157} INFO - Started process (PID=51665) to work on /home/pyretttt/repos/mlops4/airflow/dags/experiment.py
+[2023-11-05T12:51:54.496+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops4/airflow/dags/experiment.py for tasks to queue
+[2023-11-05T12:51:54.498+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:51:54.497+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops4/airflow/dags/experiment.py
+[2023-11-05T12:51:54.510+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:51:54.508+0400] {dagbag.py:346} ERROR - Failed to import: /home/pyretttt/repos/mlops4/airflow/dags/experiment.py
+Traceback (most recent call last):
+  File "/home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/models/dagbag.py", line 342, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/home/pyretttt/repos/mlops4/airflow/dags/experiment.py", line 40, in <module>
+    get_data >> prepare_data >> experiment
+  File "/home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/models/taskmixin.py", line 103, in __rshift__
+    self.set_downstream(other)
+  File "/home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/models/xcom_arg.py", line 155, in set_downstream
+    operator.set_downstream(task_or_task_list, edge_modifier)
+  File "/home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/models/taskmixin.py", line 261, in set_downstream
+    self._set_relatives(task_or_task_list, upstream=False, edge_modifier=edge_modifier)
+  File "/home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/models/taskmixin.py", line 238, in _set_relatives
+    self.dag = dag
+  File "/home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/models/baseoperator.py", line 1045, in __setattr__
+    super().__setattr__(key, value)
+  File "/home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/models/baseoperator.py", line 1106, in dag
+    dag.add_task(self)
+  File "/home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/models/dag.py", line 2556, in add_task
+    raise AirflowException("DAG is missing the start_date parameter")
+airflow.exceptions.AirflowException: DAG is missing the start_date parameter
+[2023-11-05T12:51:54.510+0400] {processor.py:841} WARNING - No viable dags retrieved from /home/pyretttt/repos/mlops4/airflow/dags/experiment.py
+[2023-11-05T12:51:54.527+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops4/airflow/dags/experiment.py took 0.038 seconds
+[2023-11-05T12:52:29.571+0400] {processor.py:157} INFO - Started process (PID=51717) to work on /home/pyretttt/repos/mlops4/airflow/dags/experiment.py
+[2023-11-05T12:52:29.573+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops4/airflow/dags/experiment.py for tasks to queue
+[2023-11-05T12:52:29.574+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:52:29.573+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops4/airflow/dags/experiment.py
+[2023-11-05T12:52:29.586+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:52:29.585+0400] {dagbag.py:346} ERROR - Failed to import: /home/pyretttt/repos/mlops4/airflow/dags/experiment.py
+Traceback (most recent call last):
+  File "/home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/models/dagbag.py", line 342, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/home/pyretttt/repos/mlops4/airflow/dags/experiment.py", line 40, in <module>
+    get_data >> prepare_data >> experiment
+  File "/home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/models/taskmixin.py", line 103, in __rshift__
+    self.set_downstream(other)
+  File "/home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/models/xcom_arg.py", line 155, in set_downstream
+    operator.set_downstream(task_or_task_list, edge_modifier)
+  File "/home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/models/taskmixin.py", line 261, in set_downstream
+    self._set_relatives(task_or_task_list, upstream=False, edge_modifier=edge_modifier)
+  File "/home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/models/taskmixin.py", line 238, in _set_relatives
+    self.dag = dag
+  File "/home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/models/baseoperator.py", line 1045, in __setattr__
+    super().__setattr__(key, value)
+  File "/home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/models/baseoperator.py", line 1106, in dag
+    dag.add_task(self)
+  File "/home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/models/dag.py", line 2556, in add_task
+    raise AirflowException("DAG is missing the start_date parameter")
+airflow.exceptions.AirflowException: DAG is missing the start_date parameter
+[2023-11-05T12:52:29.587+0400] {processor.py:841} WARNING - No viable dags retrieved from /home/pyretttt/repos/mlops4/airflow/dags/experiment.py
+[2023-11-05T12:52:29.606+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops4/airflow/dags/experiment.py took 0.040 seconds
+[2023-11-05T12:53:06.922+0400] {processor.py:157} INFO - Started process (PID=51754) to work on /home/pyretttt/repos/mlops4/airflow/dags/experiment.py
+[2023-11-05T12:53:06.924+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops4/airflow/dags/experiment.py for tasks to queue
+[2023-11-05T12:53:06.925+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:53:06.924+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops4/airflow/dags/experiment.py
+[2023-11-05T12:53:06.938+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:53:06.936+0400] {dagbag.py:346} ERROR - Failed to import: /home/pyretttt/repos/mlops4/airflow/dags/experiment.py
+Traceback (most recent call last):
+  File "/home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/models/dagbag.py", line 342, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/home/pyretttt/repos/mlops4/airflow/dags/experiment.py", line 40, in <module>
+    get_data >> prepare_data >> experiment
+  File "/home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/models/taskmixin.py", line 103, in __rshift__
+    self.set_downstream(other)
+  File "/home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/models/xcom_arg.py", line 155, in set_downstream
+    operator.set_downstream(task_or_task_list, edge_modifier)
+  File "/home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/models/taskmixin.py", line 261, in set_downstream
+    self._set_relatives(task_or_task_list, upstream=False, edge_modifier=edge_modifier)
+  File "/home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/models/taskmixin.py", line 238, in _set_relatives
+    self.dag = dag
+  File "/home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/models/baseoperator.py", line 1045, in __setattr__
+    super().__setattr__(key, value)
+  File "/home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/models/baseoperator.py", line 1106, in dag
+    dag.add_task(self)
+  File "/home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/models/dag.py", line 2556, in add_task
+    raise AirflowException("DAG is missing the start_date parameter")
+airflow.exceptions.AirflowException: DAG is missing the start_date parameter
+[2023-11-05T12:53:06.938+0400] {processor.py:841} WARNING - No viable dags retrieved from /home/pyretttt/repos/mlops4/airflow/dags/experiment.py
+[2023-11-05T12:53:06.956+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops4/airflow/dags/experiment.py took 0.039 seconds
+[2023-11-05T12:53:44.797+0400] {processor.py:157} INFO - Started process (PID=51791) to work on /home/pyretttt/repos/mlops4/airflow/dags/experiment.py
+[2023-11-05T12:53:44.799+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops4/airflow/dags/experiment.py for tasks to queue
+[2023-11-05T12:53:44.801+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:53:44.800+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops4/airflow/dags/experiment.py
+[2023-11-05T12:53:44.813+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:53:44.811+0400] {dagbag.py:346} ERROR - Failed to import: /home/pyretttt/repos/mlops4/airflow/dags/experiment.py
+Traceback (most recent call last):
+  File "/home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/models/dagbag.py", line 342, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/home/pyretttt/repos/mlops4/airflow/dags/experiment.py", line 40, in <module>
+    get_data >> prepare_data >> experiment
+  File "/home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/models/taskmixin.py", line 103, in __rshift__
+    self.set_downstream(other)
+  File "/home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/models/xcom_arg.py", line 155, in set_downstream
+    operator.set_downstream(task_or_task_list, edge_modifier)
+  File "/home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/models/taskmixin.py", line 261, in set_downstream
+    self._set_relatives(task_or_task_list, upstream=False, edge_modifier=edge_modifier)
+  File "/home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/models/taskmixin.py", line 238, in _set_relatives
+    self.dag = dag
+  File "/home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/models/baseoperator.py", line 1045, in __setattr__
+    super().__setattr__(key, value)
+  File "/home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/models/baseoperator.py", line 1106, in dag
+    dag.add_task(self)
+  File "/home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/models/dag.py", line 2556, in add_task
+    raise AirflowException("DAG is missing the start_date parameter")
+airflow.exceptions.AirflowException: DAG is missing the start_date parameter
+[2023-11-05T12:53:44.813+0400] {processor.py:841} WARNING - No viable dags retrieved from /home/pyretttt/repos/mlops4/airflow/dags/experiment.py
+[2023-11-05T12:53:44.830+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops4/airflow/dags/experiment.py took 0.037 seconds
+[2023-11-05T12:54:22.222+0400] {processor.py:157} INFO - Started process (PID=51830) to work on /home/pyretttt/repos/mlops4/airflow/dags/experiment.py
+[2023-11-05T12:54:22.224+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops4/airflow/dags/experiment.py for tasks to queue
+[2023-11-05T12:54:22.226+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:54:22.225+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops4/airflow/dags/experiment.py
+[2023-11-05T12:54:22.238+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:54:22.236+0400] {dagbag.py:346} ERROR - Failed to import: /home/pyretttt/repos/mlops4/airflow/dags/experiment.py
+Traceback (most recent call last):
+  File "/home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/models/dagbag.py", line 342, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/home/pyretttt/repos/mlops4/airflow/dags/experiment.py", line 40, in <module>
+    get_data >> prepare_data >> experiment
+  File "/home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/models/taskmixin.py", line 103, in __rshift__
+    self.set_downstream(other)
+  File "/home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/models/xcom_arg.py", line 155, in set_downstream
+    operator.set_downstream(task_or_task_list, edge_modifier)
+  File "/home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/models/taskmixin.py", line 261, in set_downstream
+    self._set_relatives(task_or_task_list, upstream=False, edge_modifier=edge_modifier)
+  File "/home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/models/taskmixin.py", line 238, in _set_relatives
+    self.dag = dag
+  File "/home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/models/baseoperator.py", line 1045, in __setattr__
+    super().__setattr__(key, value)
+  File "/home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/models/baseoperator.py", line 1106, in dag
+    dag.add_task(self)
+  File "/home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/models/dag.py", line 2556, in add_task
+    raise AirflowException("DAG is missing the start_date parameter")
+airflow.exceptions.AirflowException: DAG is missing the start_date parameter
+[2023-11-05T12:54:22.238+0400] {processor.py:841} WARNING - No viable dags retrieved from /home/pyretttt/repos/mlops4/airflow/dags/experiment.py
+[2023-11-05T12:54:22.258+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops4/airflow/dags/experiment.py took 0.041 seconds
+[2023-11-05T12:54:59.928+0400] {processor.py:157} INFO - Started process (PID=51869) to work on /home/pyretttt/repos/mlops4/airflow/dags/experiment.py
+[2023-11-05T12:54:59.930+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops4/airflow/dags/experiment.py for tasks to queue
+[2023-11-05T12:54:59.931+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:54:59.930+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops4/airflow/dags/experiment.py
+[2023-11-05T12:54:59.944+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:54:59.942+0400] {dagbag.py:346} ERROR - Failed to import: /home/pyretttt/repos/mlops4/airflow/dags/experiment.py
+Traceback (most recent call last):
+  File "/home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/models/dagbag.py", line 342, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/home/pyretttt/repos/mlops4/airflow/dags/experiment.py", line 40, in <module>
+    get_data >> prepare_data >> experiment
+  File "/home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/models/taskmixin.py", line 103, in __rshift__
+    self.set_downstream(other)
+  File "/home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/models/xcom_arg.py", line 155, in set_downstream
+    operator.set_downstream(task_or_task_list, edge_modifier)
+  File "/home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/models/taskmixin.py", line 261, in set_downstream
+    self._set_relatives(task_or_task_list, upstream=False, edge_modifier=edge_modifier)
+  File "/home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/models/taskmixin.py", line 238, in _set_relatives
+    self.dag = dag
+  File "/home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/models/baseoperator.py", line 1045, in __setattr__
+    super().__setattr__(key, value)
+  File "/home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/models/baseoperator.py", line 1106, in dag
+    dag.add_task(self)
+  File "/home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/models/dag.py", line 2556, in add_task
+    raise AirflowException("DAG is missing the start_date parameter")
+airflow.exceptions.AirflowException: DAG is missing the start_date parameter
+[2023-11-05T12:54:59.944+0400] {processor.py:841} WARNING - No viable dags retrieved from /home/pyretttt/repos/mlops4/airflow/dags/experiment.py
+[2023-11-05T12:54:59.961+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops4/airflow/dags/experiment.py took 0.038 seconds
+[2023-11-05T12:55:15.466+0400] {processor.py:157} INFO - Started process (PID=51885) to work on /home/pyretttt/repos/mlops4/airflow/dags/experiment.py
+[2023-11-05T12:55:15.467+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops4/airflow/dags/experiment.py for tasks to queue
+[2023-11-05T12:55:15.469+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:55:15.468+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops4/airflow/dags/experiment.py
+[2023-11-05T12:55:15.861+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:55:15.860+0400] {dagbag.py:346} ERROR - Failed to import: /home/pyretttt/repos/mlops4/airflow/dags/experiment.py
+Traceback (most recent call last):
+  File "/home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/models/dagbag.py", line 342, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/home/pyretttt/repos/mlops4/airflow/dags/experiment.py", line 31, in <module>
+    get_data >> prepare_data >> experiment
+  File "/home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/models/taskmixin.py", line 103, in __rshift__
+    self.set_downstream(other)
+  File "/home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/models/xcom_arg.py", line 155, in set_downstream
+    operator.set_downstream(task_or_task_list, edge_modifier)
+  File "/home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/models/taskmixin.py", line 261, in set_downstream
+    self._set_relatives(task_or_task_list, upstream=False, edge_modifier=edge_modifier)
+  File "/home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/models/taskmixin.py", line 231, in _set_relatives
+    raise AirflowException(
+airflow.exceptions.AirflowException: Tried to create relationships between tasks that don't have DAGs yet. Set the DAG for at least one task and try again: [<Task(_PythonDecoratedOperator): get_data>, <Task(_PythonDecoratedOperator): prepare_data>]
+[2023-11-05T12:55:15.861+0400] {processor.py:841} WARNING - No viable dags retrieved from /home/pyretttt/repos/mlops4/airflow/dags/experiment.py
+[2023-11-05T12:55:15.868+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops4/airflow/dags/experiment.py took 0.406 seconds
+[2023-11-05T12:55:54.952+0400] {processor.py:157} INFO - Started process (PID=51930) to work on /home/pyretttt/repos/mlops4/airflow/dags/experiment.py
+[2023-11-05T12:55:54.954+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops4/airflow/dags/experiment.py for tasks to queue
+[2023-11-05T12:55:54.956+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:55:54.955+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops4/airflow/dags/experiment.py
+[2023-11-05T12:55:55.321+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:55:55.321+0400] {dagbag.py:346} ERROR - Failed to import: /home/pyretttt/repos/mlops4/airflow/dags/experiment.py
+Traceback (most recent call last):
+  File "/home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/models/dagbag.py", line 342, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/home/pyretttt/repos/mlops4/airflow/dags/experiment.py", line 31, in <module>
+    get_data >> prepare_data >> experiment
+  File "/home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/models/taskmixin.py", line 103, in __rshift__
+    self.set_downstream(other)
+  File "/home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/models/xcom_arg.py", line 155, in set_downstream
+    operator.set_downstream(task_or_task_list, edge_modifier)
+  File "/home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/models/taskmixin.py", line 261, in set_downstream
+    self._set_relatives(task_or_task_list, upstream=False, edge_modifier=edge_modifier)
+  File "/home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/models/taskmixin.py", line 231, in _set_relatives
+    raise AirflowException(
+airflow.exceptions.AirflowException: Tried to create relationships between tasks that don't have DAGs yet. Set the DAG for at least one task and try again: [<Task(_PythonDecoratedOperator): get_data>, <Task(_PythonDecoratedOperator): prepare_data>]
+[2023-11-05T12:55:55.322+0400] {processor.py:841} WARNING - No viable dags retrieved from /home/pyretttt/repos/mlops4/airflow/dags/experiment.py
+[2023-11-05T12:55:55.329+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops4/airflow/dags/experiment.py took 0.382 seconds
+[2023-11-05T12:56:34.410+0400] {processor.py:157} INFO - Started process (PID=51972) to work on /home/pyretttt/repos/mlops4/airflow/dags/experiment.py
+[2023-11-05T12:56:34.413+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops4/airflow/dags/experiment.py for tasks to queue
+[2023-11-05T12:56:34.414+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:56:34.413+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops4/airflow/dags/experiment.py
+[2023-11-05T12:56:34.748+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:56:34.748+0400] {dagbag.py:346} ERROR - Failed to import: /home/pyretttt/repos/mlops4/airflow/dags/experiment.py
+Traceback (most recent call last):
+  File "/home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/models/dagbag.py", line 342, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/home/pyretttt/repos/mlops4/airflow/dags/experiment.py", line 31, in <module>
+    get_data >> prepare_data >> experiment
+  File "/home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/models/taskmixin.py", line 103, in __rshift__
+    self.set_downstream(other)
+  File "/home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/models/xcom_arg.py", line 155, in set_downstream
+    operator.set_downstream(task_or_task_list, edge_modifier)
+  File "/home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/models/taskmixin.py", line 261, in set_downstream
+    self._set_relatives(task_or_task_list, upstream=False, edge_modifier=edge_modifier)
+  File "/home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/models/taskmixin.py", line 231, in _set_relatives
+    raise AirflowException(
+airflow.exceptions.AirflowException: Tried to create relationships between tasks that don't have DAGs yet. Set the DAG for at least one task and try again: [<Task(_PythonDecoratedOperator): get_data>, <Task(_PythonDecoratedOperator): prepare_data>]
+[2023-11-05T12:56:34.748+0400] {processor.py:841} WARNING - No viable dags retrieved from /home/pyretttt/repos/mlops4/airflow/dags/experiment.py
+[2023-11-05T12:56:34.755+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops4/airflow/dags/experiment.py took 0.349 seconds
+[2023-11-05T12:57:09.693+0400] {processor.py:157} INFO - Started process (PID=52017) to work on /home/pyretttt/repos/mlops4/airflow/dags/experiment.py
+[2023-11-05T12:57:09.694+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops4/airflow/dags/experiment.py for tasks to queue
+[2023-11-05T12:57:09.696+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:57:09.695+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops4/airflow/dags/experiment.py
+[2023-11-05T12:57:10.038+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:57:10.038+0400] {dagbag.py:346} ERROR - Failed to import: /home/pyretttt/repos/mlops4/airflow/dags/experiment.py
+Traceback (most recent call last):
+  File "/home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/models/dagbag.py", line 342, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/home/pyretttt/repos/mlops4/airflow/dags/experiment.py", line 31, in <module>
+    get_data >> prepare_data >> experiment
+  File "/home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/models/taskmixin.py", line 103, in __rshift__
+    self.set_downstream(other)
+  File "/home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/models/xcom_arg.py", line 155, in set_downstream
+    operator.set_downstream(task_or_task_list, edge_modifier)
+  File "/home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/models/taskmixin.py", line 261, in set_downstream
+    self._set_relatives(task_or_task_list, upstream=False, edge_modifier=edge_modifier)
+  File "/home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/models/taskmixin.py", line 231, in _set_relatives
+    raise AirflowException(
+airflow.exceptions.AirflowException: Tried to create relationships between tasks that don't have DAGs yet. Set the DAG for at least one task and try again: [<Task(_PythonDecoratedOperator): get_data>, <Task(_PythonDecoratedOperator): prepare_data>]
+[2023-11-05T12:57:10.038+0400] {processor.py:841} WARNING - No viable dags retrieved from /home/pyretttt/repos/mlops4/airflow/dags/experiment.py
+[2023-11-05T12:57:10.046+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops4/airflow/dags/experiment.py took 0.357 seconds
+[2023-11-05T12:57:26.965+0400] {processor.py:157} INFO - Started process (PID=52041) to work on /home/pyretttt/repos/mlops4/airflow/dags/experiment.py
+[2023-11-05T12:57:26.966+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops4/airflow/dags/experiment.py for tasks to queue
+[2023-11-05T12:57:26.967+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:57:26.966+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops4/airflow/dags/experiment.py
+[2023-11-05T12:57:27.306+0400] {processor.py:839} INFO - DAG(s) dict_keys(['experiment']) retrieved from /home/pyretttt/repos/mlops4/airflow/dags/experiment.py
+[2023-11-05T12:57:27.337+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:57:27.337+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-05T12:57:27.341+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:57:27.340+0400] {dag.py:3722} INFO - Setting next_dagrun for experiment to None, run_after=None
+[2023-11-05T12:57:27.353+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops4/airflow/dags/experiment.py took 0.393 seconds
+[2023-11-05T12:58:09.698+0400] {processor.py:157} INFO - Started process (PID=52116) to work on /home/pyretttt/repos/mlops4/airflow/dags/experiment.py
+[2023-11-05T12:58:09.701+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops4/airflow/dags/experiment.py for tasks to queue
+[2023-11-05T12:58:09.702+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:58:09.701+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops4/airflow/dags/experiment.py
+[2023-11-05T12:58:10.052+0400] {processor.py:839} INFO - DAG(s) dict_keys(['experiment']) retrieved from /home/pyretttt/repos/mlops4/airflow/dags/experiment.py
+[2023-11-05T12:58:10.056+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:58:10.056+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-05T12:58:10.060+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:58:10.060+0400] {dag.py:3722} INFO - Setting next_dagrun for experiment to None, run_after=None
+[2023-11-05T12:58:10.069+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops4/airflow/dags/experiment.py took 0.376 seconds
+[2023-11-05T12:58:48.569+0400] {processor.py:157} INFO - Started process (PID=52158) to work on /home/pyretttt/repos/mlops4/airflow/dags/experiment.py
+[2023-11-05T12:58:48.571+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops4/airflow/dags/experiment.py for tasks to queue
+[2023-11-05T12:58:48.572+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:58:48.571+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops4/airflow/dags/experiment.py
+[2023-11-05T12:58:48.920+0400] {processor.py:839} INFO - DAG(s) dict_keys(['experiment']) retrieved from /home/pyretttt/repos/mlops4/airflow/dags/experiment.py
+[2023-11-05T12:58:48.926+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:58:48.926+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-05T12:58:48.930+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:58:48.930+0400] {dag.py:3722} INFO - Setting next_dagrun for experiment to None, run_after=None
+[2023-11-05T12:58:48.939+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops4/airflow/dags/experiment.py took 0.374 seconds
+[2023-11-05T12:59:29.261+0400] {processor.py:157} INFO - Started process (PID=52200) to work on /home/pyretttt/repos/mlops4/airflow/dags/experiment.py
+[2023-11-05T12:59:29.263+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops4/airflow/dags/experiment.py for tasks to queue
+[2023-11-05T12:59:29.265+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:59:29.264+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops4/airflow/dags/experiment.py
+[2023-11-05T12:59:29.640+0400] {processor.py:839} INFO - DAG(s) dict_keys(['experiment']) retrieved from /home/pyretttt/repos/mlops4/airflow/dags/experiment.py
+[2023-11-05T12:59:29.646+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:59:29.646+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-05T12:59:29.650+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:59:29.650+0400] {dag.py:3722} INFO - Setting next_dagrun for experiment to None, run_after=None
+[2023-11-05T12:59:29.660+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops4/airflow/dags/experiment.py took 0.405 seconds
+[2023-11-05T13:00:10.437+0400] {processor.py:157} INFO - Started process (PID=52243) to work on /home/pyretttt/repos/mlops4/airflow/dags/experiment.py
+[2023-11-05T13:00:10.438+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops4/airflow/dags/experiment.py for tasks to queue
+[2023-11-05T13:00:10.440+0400] {logging_mixin.py:151} INFO - [2023-11-05T13:00:10.439+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops4/airflow/dags/experiment.py
+[2023-11-05T13:00:10.789+0400] {processor.py:839} INFO - DAG(s) dict_keys(['experiment']) retrieved from /home/pyretttt/repos/mlops4/airflow/dags/experiment.py
+[2023-11-05T13:00:10.794+0400] {logging_mixin.py:151} INFO - [2023-11-05T13:00:10.793+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-05T13:00:10.798+0400] {logging_mixin.py:151} INFO - [2023-11-05T13:00:10.797+0400] {dag.py:3722} INFO - Setting next_dagrun for experiment to None, run_after=None
+[2023-11-05T13:00:10.809+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops4/airflow/dags/experiment.py took 0.377 seconds
+[2023-11-05T13:00:50.889+0400] {processor.py:157} INFO - Started process (PID=52286) to work on /home/pyretttt/repos/mlops4/airflow/dags/experiment.py
+[2023-11-05T13:00:50.890+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops4/airflow/dags/experiment.py for tasks to queue
+[2023-11-05T13:00:50.891+0400] {logging_mixin.py:151} INFO - [2023-11-05T13:00:50.890+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops4/airflow/dags/experiment.py
+[2023-11-05T13:00:51.270+0400] {processor.py:839} INFO - DAG(s) dict_keys(['experiment']) retrieved from /home/pyretttt/repos/mlops4/airflow/dags/experiment.py
+[2023-11-05T13:00:51.275+0400] {logging_mixin.py:151} INFO - [2023-11-05T13:00:51.275+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-05T13:00:51.279+0400] {logging_mixin.py:151} INFO - [2023-11-05T13:00:51.279+0400] {dag.py:3722} INFO - Setting next_dagrun for experiment to None, run_after=None
+[2023-11-05T13:00:51.289+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops4/airflow/dags/experiment.py took 0.403 seconds
+[2023-11-05T13:01:27.139+0400] {processor.py:157} INFO - Started process (PID=52324) to work on /home/pyretttt/repos/mlops4/airflow/dags/experiment.py
+[2023-11-05T13:01:27.141+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops4/airflow/dags/experiment.py for tasks to queue
+[2023-11-05T13:01:27.142+0400] {logging_mixin.py:151} INFO - [2023-11-05T13:01:27.141+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops4/airflow/dags/experiment.py
+[2023-11-05T13:01:27.510+0400] {processor.py:839} INFO - DAG(s) dict_keys(['experiment']) retrieved from /home/pyretttt/repos/mlops4/airflow/dags/experiment.py
+[2023-11-05T13:01:27.515+0400] {logging_mixin.py:151} INFO - [2023-11-05T13:01:27.515+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-05T13:01:27.520+0400] {logging_mixin.py:151} INFO - [2023-11-05T13:01:27.520+0400] {dag.py:3722} INFO - Setting next_dagrun for experiment to None, run_after=None
+[2023-11-05T13:01:27.529+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops4/airflow/dags/experiment.py took 0.393 seconds

@@ -1013,3 +1013,346 @@
 [2023-11-05T12:16:32.486+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:16:32.486+0400] {dag.py:2941} INFO - Sync 1 DAGs
 [2023-11-05T12:16:32.492+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:16:32.492+0400] {dag.py:3722} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
 [2023-11-05T12:16:32.505+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py took 0.047 seconds
+[2023-11-05T12:17:27.087+0400] {processor.py:157} INFO - Started process (PID=49388) to work on /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-11-05T12:17:27.089+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2023-11-05T12:17:27.090+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:17:27.089+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-11-05T12:17:27.098+0400] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial_dag']) retrieved from /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-11-05T12:17:27.114+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:17:27.114+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-05T12:17:27.123+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:17:27.123+0400] {dag.py:3722} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2023-11-05T12:17:27.134+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py took 0.052 seconds
+[2023-11-05T12:18:21.522+0400] {processor.py:157} INFO - Started process (PID=49480) to work on /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-11-05T12:18:21.524+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2023-11-05T12:18:21.525+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:18:21.524+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-11-05T12:18:21.532+0400] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial_dag']) retrieved from /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-11-05T12:18:21.552+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:18:21.551+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-05T12:18:21.560+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:18:21.560+0400] {dag.py:3722} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2023-11-05T12:18:21.573+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py took 0.055 seconds
+[2023-11-05T12:19:15.465+0400] {processor.py:157} INFO - Started process (PID=49534) to work on /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-11-05T12:19:15.467+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2023-11-05T12:19:15.469+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:19:15.468+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-11-05T12:19:15.478+0400] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial_dag']) retrieved from /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-11-05T12:19:15.498+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:19:15.498+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-05T12:19:15.507+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:19:15.507+0400] {dag.py:3722} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2023-11-05T12:19:15.521+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py took 0.061 seconds
+[2023-11-05T12:20:11.797+0400] {processor.py:157} INFO - Started process (PID=49591) to work on /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-11-05T12:20:11.799+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2023-11-05T12:20:11.801+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:20:11.800+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-11-05T12:20:11.808+0400] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial_dag']) retrieved from /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-11-05T12:20:11.825+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:20:11.825+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-05T12:20:11.834+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:20:11.834+0400] {dag.py:3722} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2023-11-05T12:20:11.849+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py took 0.056 seconds
+[2023-11-05T12:21:02.546+0400] {processor.py:157} INFO - Started process (PID=49644) to work on /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-11-05T12:21:02.548+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2023-11-05T12:21:02.549+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:21:02.548+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-11-05T12:21:02.555+0400] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial_dag']) retrieved from /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-11-05T12:21:02.571+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:21:02.571+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-05T12:21:02.579+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:21:02.578+0400] {dag.py:3722} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2023-11-05T12:21:02.590+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py took 0.047 seconds
+[2023-11-05T12:21:53.944+0400] {processor.py:157} INFO - Started process (PID=49696) to work on /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-11-05T12:21:53.946+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2023-11-05T12:21:53.947+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:21:53.946+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-11-05T12:21:53.954+0400] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial_dag']) retrieved from /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-11-05T12:21:53.971+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:21:53.971+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-05T12:21:53.978+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:21:53.978+0400] {dag.py:3722} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2023-11-05T12:21:53.989+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py took 0.050 seconds
+[2023-11-05T12:22:45.973+0400] {processor.py:157} INFO - Started process (PID=49774) to work on /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-11-05T12:22:45.975+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2023-11-05T12:22:45.977+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:22:45.976+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-11-05T12:22:45.984+0400] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial_dag']) retrieved from /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-11-05T12:22:46.001+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:22:46.001+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-05T12:22:46.009+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:22:46.009+0400] {dag.py:3722} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2023-11-05T12:22:46.022+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py took 0.053 seconds
+[2023-11-05T12:23:43.213+0400] {processor.py:157} INFO - Started process (PID=49844) to work on /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-11-05T12:23:43.215+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2023-11-05T12:23:43.217+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:23:43.216+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-11-05T12:23:43.225+0400] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial_dag']) retrieved from /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-11-05T12:23:43.241+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:23:43.241+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-05T12:23:43.247+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:23:43.247+0400] {dag.py:3722} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2023-11-05T12:23:43.260+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py took 0.052 seconds
+[2023-11-05T12:24:38.529+0400] {processor.py:157} INFO - Started process (PID=49904) to work on /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-11-05T12:24:38.531+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2023-11-05T12:24:38.532+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:24:38.532+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-11-05T12:24:38.540+0400] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial_dag']) retrieved from /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-11-05T12:24:38.557+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:24:38.557+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-05T12:24:38.566+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:24:38.566+0400] {dag.py:3722} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2023-11-05T12:24:38.579+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py took 0.054 seconds
+[2023-11-05T12:25:44.845+0400] {processor.py:157} INFO - Started process (PID=49968) to work on /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-11-05T12:25:44.847+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2023-11-05T12:25:44.848+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:25:44.847+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-11-05T12:25:44.855+0400] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial_dag']) retrieved from /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-11-05T12:25:44.871+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:25:44.871+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-05T12:25:44.879+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:25:44.879+0400] {dag.py:3722} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2023-11-05T12:25:44.891+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py took 0.051 seconds
+[2023-11-05T12:26:28.906+0400] {processor.py:157} INFO - Started process (PID=50011) to work on /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-11-05T12:26:28.908+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2023-11-05T12:26:28.909+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:26:28.908+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-11-05T12:26:28.916+0400] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial_dag']) retrieved from /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-11-05T12:26:28.931+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:26:28.931+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-05T12:26:28.939+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:26:28.939+0400] {dag.py:3722} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2023-11-05T12:26:28.953+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py took 0.051 seconds
+[2023-11-05T12:27:28.159+0400] {processor.py:157} INFO - Started process (PID=50068) to work on /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-11-05T12:27:28.161+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2023-11-05T12:27:28.162+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:27:28.162+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-11-05T12:27:28.170+0400] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial_dag']) retrieved from /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-11-05T12:27:28.186+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:27:28.186+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-05T12:27:28.194+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:27:28.194+0400] {dag.py:3722} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2023-11-05T12:27:28.206+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py took 0.051 seconds
+[2023-11-05T12:28:29.688+0400] {processor.py:157} INFO - Started process (PID=50184) to work on /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-11-05T12:28:29.690+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2023-11-05T12:28:29.691+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:28:29.690+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-11-05T12:28:29.699+0400] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial_dag']) retrieved from /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-11-05T12:28:29.715+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:28:29.715+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-05T12:28:29.721+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:28:29.721+0400] {dag.py:3722} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2023-11-05T12:28:29.777+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py took 0.095 seconds
+[2023-11-05T12:29:12.665+0400] {processor.py:157} INFO - Started process (PID=50227) to work on /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-11-05T12:29:12.667+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2023-11-05T12:29:12.668+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:29:12.667+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-11-05T12:29:12.675+0400] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial_dag']) retrieved from /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-11-05T12:29:12.692+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:29:12.692+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-05T12:29:12.701+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:29:12.700+0400] {dag.py:3722} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2023-11-05T12:29:12.714+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py took 0.053 seconds
+[2023-11-05T12:30:15.444+0400] {processor.py:157} INFO - Started process (PID=50285) to work on /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-11-05T12:30:15.446+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2023-11-05T12:30:15.448+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:30:15.447+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-11-05T12:30:15.455+0400] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial_dag']) retrieved from /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-11-05T12:30:15.475+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:30:15.474+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-05T12:30:15.484+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:30:15.484+0400] {dag.py:3722} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2023-11-05T12:30:15.549+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py took 0.111 seconds
+[2023-11-05T12:31:05.298+0400] {processor.py:157} INFO - Started process (PID=50329) to work on /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-11-05T12:31:05.300+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2023-11-05T12:31:05.301+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:31:05.300+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-11-05T12:31:05.307+0400] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial_dag']) retrieved from /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-11-05T12:31:05.324+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:31:05.324+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-05T12:31:05.333+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:31:05.333+0400] {dag.py:3722} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2023-11-05T12:31:05.346+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py took 0.052 seconds
+[2023-11-05T12:31:50.191+0400] {processor.py:157} INFO - Started process (PID=50371) to work on /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-11-05T12:31:50.193+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2023-11-05T12:31:50.195+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:31:50.194+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-11-05T12:31:50.202+0400] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial_dag']) retrieved from /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-11-05T12:31:50.221+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:31:50.221+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-05T12:31:50.230+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:31:50.230+0400] {dag.py:3722} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2023-11-05T12:31:50.290+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py took 0.103 seconds
+[2023-11-05T12:32:34.695+0400] {processor.py:157} INFO - Started process (PID=50413) to work on /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-11-05T12:32:34.697+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2023-11-05T12:32:34.699+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:32:34.698+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-11-05T12:32:34.705+0400] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial_dag']) retrieved from /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-11-05T12:32:34.722+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:32:34.722+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-05T12:32:34.730+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:32:34.730+0400] {dag.py:3722} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2023-11-05T12:32:34.742+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py took 0.052 seconds
+[2023-11-05T12:33:39.008+0400] {processor.py:157} INFO - Started process (PID=50475) to work on /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-11-05T12:33:39.010+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2023-11-05T12:33:39.011+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:33:39.010+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-11-05T12:33:39.018+0400] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial_dag']) retrieved from /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-11-05T12:33:39.035+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:33:39.035+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-05T12:33:39.115+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:33:39.115+0400] {dag.py:3722} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2023-11-05T12:33:39.124+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py took 0.121 seconds
+[2023-11-05T12:34:31.264+0400] {processor.py:157} INFO - Started process (PID=50521) to work on /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-11-05T12:34:31.266+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2023-11-05T12:34:31.267+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:34:31.266+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-11-05T12:34:31.274+0400] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial_dag']) retrieved from /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-11-05T12:34:31.291+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:34:31.291+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-05T12:34:31.299+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:34:31.299+0400] {dag.py:3722} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2023-11-05T12:34:31.312+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py took 0.052 seconds
+[2023-11-05T12:35:13.853+0400] {processor.py:157} INFO - Started process (PID=50565) to work on /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-11-05T12:35:13.854+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2023-11-05T12:35:13.855+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:35:13.854+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-11-05T12:35:13.858+0400] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial_dag']) retrieved from /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-11-05T12:35:13.870+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:35:13.870+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-05T12:35:13.876+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:35:13.876+0400] {dag.py:3722} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2023-11-05T12:35:13.891+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py took 0.040 seconds
+[2023-11-05T12:36:07.206+0400] {processor.py:157} INFO - Started process (PID=50619) to work on /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-11-05T12:36:07.208+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2023-11-05T12:36:07.209+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:36:07.208+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-11-05T12:36:07.217+0400] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial_dag']) retrieved from /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-11-05T12:36:07.238+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:36:07.238+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-05T12:36:07.247+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:36:07.247+0400] {dag.py:3722} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2023-11-05T12:36:07.264+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py took 0.064 seconds
+[2023-11-05T12:36:58.638+0400] {processor.py:157} INFO - Started process (PID=50699) to work on /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-11-05T12:36:58.640+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2023-11-05T12:36:58.641+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:36:58.640+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-11-05T12:36:58.649+0400] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial_dag']) retrieved from /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-11-05T12:36:58.666+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:36:58.665+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-05T12:36:58.674+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:36:58.674+0400] {dag.py:3722} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2023-11-05T12:36:58.686+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py took 0.052 seconds
+[2023-11-05T12:37:55.649+0400] {processor.py:157} INFO - Started process (PID=50755) to work on /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-11-05T12:37:55.651+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2023-11-05T12:37:55.652+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:37:55.651+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-11-05T12:37:55.659+0400] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial_dag']) retrieved from /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-11-05T12:37:55.678+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:37:55.677+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-05T12:37:55.687+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:37:55.687+0400] {dag.py:3722} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2023-11-05T12:37:55.699+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py took 0.054 seconds
+[2023-11-05T12:38:51.624+0400] {processor.py:157} INFO - Started process (PID=50812) to work on /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-11-05T12:38:51.626+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2023-11-05T12:38:51.628+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:38:51.627+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-11-05T12:38:51.635+0400] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial_dag']) retrieved from /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-11-05T12:38:51.654+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:38:51.654+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-05T12:38:51.664+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:38:51.664+0400] {dag.py:3722} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2023-11-05T12:38:51.679+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py took 0.060 seconds
+[2023-11-05T12:39:47.262+0400] {processor.py:157} INFO - Started process (PID=50874) to work on /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-11-05T12:39:47.264+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2023-11-05T12:39:47.266+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:39:47.265+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-11-05T12:39:47.272+0400] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial_dag']) retrieved from /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-11-05T12:39:47.291+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:39:47.290+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-05T12:39:47.301+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:39:47.300+0400] {dag.py:3722} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2023-11-05T12:39:47.318+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py took 0.060 seconds
+[2023-11-05T12:40:42.105+0400] {processor.py:157} INFO - Started process (PID=50931) to work on /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-11-05T12:40:42.107+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2023-11-05T12:40:42.108+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:40:42.107+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-11-05T12:40:42.115+0400] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial_dag']) retrieved from /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-11-05T12:40:42.130+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:40:42.130+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-05T12:40:42.139+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:40:42.138+0400] {dag.py:3722} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2023-11-05T12:40:42.155+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py took 0.054 seconds
+[2023-11-05T12:41:37.585+0400] {processor.py:157} INFO - Started process (PID=50988) to work on /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-11-05T12:41:37.587+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2023-11-05T12:41:37.588+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:41:37.588+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-11-05T12:41:37.597+0400] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial_dag']) retrieved from /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-11-05T12:41:37.615+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:41:37.615+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-05T12:41:37.623+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:41:37.623+0400] {dag.py:3722} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2023-11-05T12:41:37.636+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py took 0.055 seconds
+[2023-11-05T12:42:34.724+0400] {processor.py:157} INFO - Started process (PID=51047) to work on /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-11-05T12:42:34.726+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2023-11-05T12:42:34.727+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:42:34.726+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-11-05T12:42:34.734+0400] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial_dag']) retrieved from /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-11-05T12:42:34.751+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:42:34.750+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-05T12:42:34.760+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:42:34.759+0400] {dag.py:3722} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2023-11-05T12:42:34.774+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py took 0.054 seconds
+[2023-11-05T12:43:29.483+0400] {processor.py:157} INFO - Started process (PID=51113) to work on /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-11-05T12:43:29.485+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2023-11-05T12:43:29.487+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:43:29.486+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-11-05T12:43:29.494+0400] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial_dag']) retrieved from /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-11-05T12:43:29.511+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:43:29.511+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-05T12:43:29.520+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:43:29.519+0400] {dag.py:3722} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2023-11-05T12:43:29.534+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py took 0.056 seconds
+[2023-11-05T12:44:23.247+0400] {processor.py:157} INFO - Started process (PID=51180) to work on /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-11-05T12:44:23.249+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2023-11-05T12:44:23.250+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:44:23.249+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-11-05T12:44:23.257+0400] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial_dag']) retrieved from /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-11-05T12:44:23.276+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:44:23.275+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-05T12:44:23.284+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:44:23.284+0400] {dag.py:3722} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2023-11-05T12:44:23.296+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py took 0.053 seconds
+[2023-11-05T12:45:18.150+0400] {processor.py:157} INFO - Started process (PID=51236) to work on /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-11-05T12:45:18.151+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2023-11-05T12:45:18.153+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:45:18.152+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-11-05T12:45:18.160+0400] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial_dag']) retrieved from /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-11-05T12:45:18.180+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:45:18.180+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-05T12:45:18.190+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:45:18.190+0400] {dag.py:3722} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2023-11-05T12:45:18.209+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py took 0.063 seconds
+[2023-11-05T12:46:12.041+0400] {processor.py:157} INFO - Started process (PID=51292) to work on /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-11-05T12:46:12.043+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2023-11-05T12:46:12.044+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:46:12.043+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-11-05T12:46:12.052+0400] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial_dag']) retrieved from /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-11-05T12:46:12.069+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:46:12.069+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-05T12:46:12.077+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:46:12.077+0400] {dag.py:3722} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2023-11-05T12:46:12.090+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py took 0.054 seconds
+[2023-11-05T12:47:04.455+0400] {processor.py:157} INFO - Started process (PID=51352) to work on /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-11-05T12:47:04.457+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2023-11-05T12:47:04.458+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:47:04.457+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-11-05T12:47:04.465+0400] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial_dag']) retrieved from /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-11-05T12:47:04.481+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:47:04.481+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-05T12:47:04.489+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:47:04.488+0400] {dag.py:3722} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2023-11-05T12:47:04.499+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py took 0.049 seconds
+[2023-11-05T12:47:58.764+0400] {processor.py:157} INFO - Started process (PID=51407) to work on /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-11-05T12:47:58.767+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2023-11-05T12:47:58.768+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:47:58.767+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-11-05T12:47:58.777+0400] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial_dag']) retrieved from /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-11-05T12:47:58.799+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:47:58.798+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-05T12:47:58.808+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:47:58.808+0400] {dag.py:3722} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2023-11-05T12:47:58.821+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py took 0.063 seconds
+[2023-11-05T12:48:55.825+0400] {processor.py:157} INFO - Started process (PID=51465) to work on /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-11-05T12:48:55.827+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2023-11-05T12:48:55.828+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:48:55.828+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-11-05T12:48:55.836+0400] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial_dag']) retrieved from /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-11-05T12:48:55.853+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:48:55.853+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-05T12:48:55.861+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:48:55.861+0400] {dag.py:3722} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2023-11-05T12:48:55.874+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py took 0.054 seconds
+[2023-11-05T12:49:54.248+0400] {processor.py:157} INFO - Started process (PID=51524) to work on /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-11-05T12:49:54.250+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2023-11-05T12:49:54.251+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:49:54.251+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-11-05T12:49:54.259+0400] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial_dag']) retrieved from /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-11-05T12:49:54.273+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:49:54.273+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-05T12:49:54.280+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:49:54.279+0400] {dag.py:3722} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2023-11-05T12:49:54.292+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py took 0.049 seconds
+[2023-11-05T12:50:52.356+0400] {processor.py:157} INFO - Started process (PID=51600) to work on /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-11-05T12:50:52.357+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2023-11-05T12:50:52.358+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:50:52.357+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-11-05T12:50:52.365+0400] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial_dag']) retrieved from /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-11-05T12:50:52.381+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:50:52.381+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-05T12:50:52.390+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:50:52.389+0400] {dag.py:3722} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2023-11-05T12:50:52.402+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py took 0.050 seconds
+[2023-11-05T12:51:48.870+0400] {processor.py:157} INFO - Started process (PID=51658) to work on /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-11-05T12:51:48.872+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2023-11-05T12:51:48.873+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:51:48.873+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-11-05T12:51:48.881+0400] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial_dag']) retrieved from /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-11-05T12:51:48.899+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:51:48.898+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-05T12:51:48.907+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:51:48.907+0400] {dag.py:3722} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2023-11-05T12:51:48.919+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py took 0.053 seconds
+[2023-11-05T12:52:40.986+0400] {processor.py:157} INFO - Started process (PID=51728) to work on /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-11-05T12:52:40.988+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2023-11-05T12:52:40.989+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:52:40.989+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-11-05T12:52:40.997+0400] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial_dag']) retrieved from /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-11-05T12:52:41.015+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:52:41.014+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-05T12:52:41.023+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:52:41.023+0400] {dag.py:3722} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2023-11-05T12:52:41.035+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py took 0.053 seconds
+[2023-11-05T12:53:38.028+0400] {processor.py:157} INFO - Started process (PID=51784) to work on /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-11-05T12:53:38.030+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2023-11-05T12:53:38.032+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:53:38.031+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-11-05T12:53:38.040+0400] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial_dag']) retrieved from /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-11-05T12:53:38.057+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:53:38.057+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-05T12:53:38.066+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:53:38.066+0400] {dag.py:3722} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2023-11-05T12:53:38.078+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py took 0.054 seconds
+[2023-11-05T12:54:34.709+0400] {processor.py:157} INFO - Started process (PID=51842) to work on /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-11-05T12:54:34.711+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2023-11-05T12:54:34.712+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:54:34.711+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-11-05T12:54:34.719+0400] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial_dag']) retrieved from /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-11-05T12:54:34.736+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:54:34.736+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-05T12:54:34.744+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:54:34.744+0400] {dag.py:3722} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2023-11-05T12:54:34.756+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py took 0.052 seconds
+[2023-11-05T12:55:26.062+0400] {processor.py:157} INFO - Started process (PID=51903) to work on /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-11-05T12:55:26.064+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2023-11-05T12:55:26.066+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:55:26.065+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-11-05T12:55:26.074+0400] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial_dag']) retrieved from /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-11-05T12:55:26.091+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:55:26.091+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-05T12:55:26.100+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:55:26.100+0400] {dag.py:3722} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2023-11-05T12:55:26.113+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py took 0.055 seconds
+[2023-11-05T12:56:26.720+0400] {processor.py:157} INFO - Started process (PID=51965) to work on /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-11-05T12:56:26.722+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2023-11-05T12:56:26.723+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:56:26.722+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-11-05T12:56:26.730+0400] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial_dag']) retrieved from /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-11-05T12:56:26.747+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:56:26.747+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-05T12:56:26.756+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:56:26.756+0400] {dag.py:3722} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2023-11-05T12:56:26.768+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py took 0.052 seconds
+[2023-11-05T12:57:20.113+0400] {processor.py:157} INFO - Started process (PID=52034) to work on /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-11-05T12:57:20.115+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2023-11-05T12:57:20.116+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:57:20.115+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-11-05T12:57:20.123+0400] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial_dag']) retrieved from /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-11-05T12:57:20.139+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:57:20.139+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-05T12:57:20.148+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:57:20.147+0400] {dag.py:3722} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2023-11-05T12:57:20.160+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py took 0.052 seconds
+[2023-11-05T12:58:24.124+0400] {processor.py:157} INFO - Started process (PID=52133) to work on /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-11-05T12:58:24.125+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2023-11-05T12:58:24.126+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:58:24.125+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-11-05T12:58:24.129+0400] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial_dag']) retrieved from /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-11-05T12:58:24.138+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:58:24.138+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-05T12:58:24.143+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:58:24.143+0400] {dag.py:3722} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2023-11-05T12:58:24.154+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py took 0.032 seconds
+[2023-11-05T12:59:21.389+0400] {processor.py:157} INFO - Started process (PID=52193) to work on /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-11-05T12:59:21.391+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2023-11-05T12:59:21.392+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:59:21.391+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-11-05T12:59:21.400+0400] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial_dag']) retrieved from /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-11-05T12:59:21.420+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:59:21.419+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-05T12:59:21.431+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:59:21.430+0400] {dag.py:3722} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2023-11-05T12:59:21.446+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py took 0.062 seconds
+[2023-11-05T13:00:23.258+0400] {processor.py:157} INFO - Started process (PID=52257) to work on /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-11-05T13:00:23.260+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2023-11-05T13:00:23.262+0400] {logging_mixin.py:151} INFO - [2023-11-05T13:00:23.261+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-11-05T13:00:23.269+0400] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial_dag']) retrieved from /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-11-05T13:00:23.286+0400] {logging_mixin.py:151} INFO - [2023-11-05T13:00:23.286+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-05T13:00:23.294+0400] {logging_mixin.py:151} INFO - [2023-11-05T13:00:23.294+0400] {dag.py:3722} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2023-11-05T13:00:23.306+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py took 0.052 seconds
+[2023-11-05T13:01:19.067+0400] {processor.py:157} INFO - Started process (PID=52316) to work on /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-11-05T13:01:19.070+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2023-11-05T13:01:19.071+0400] {logging_mixin.py:151} INFO - [2023-11-05T13:01:19.070+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-11-05T13:01:19.080+0400] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial_dag']) retrieved from /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-11-05T13:01:19.099+0400] {logging_mixin.py:151} INFO - [2023-11-05T13:01:19.099+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-05T13:01:19.109+0400] {logging_mixin.py:151} INFO - [2023-11-05T13:01:19.109+0400] {dag.py:3722} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2023-11-05T13:01:19.124+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py took 0.062 seconds

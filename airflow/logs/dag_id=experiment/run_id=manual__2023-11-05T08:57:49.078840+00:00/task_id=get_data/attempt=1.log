@@ -1,0 +1,16 @@
+[2023-11-05T12:57:51.269+0400] {taskinstance.py:1159} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: experiment.get_data manual__2023-11-05T08:57:49.078840+00:00 [queued]>
+[2023-11-05T12:57:51.271+0400] {taskinstance.py:1159} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: experiment.get_data manual__2023-11-05T08:57:49.078840+00:00 [queued]>
+[2023-11-05T12:57:51.271+0400] {taskinstance.py:1361} INFO - Starting attempt 1 of 2
+[2023-11-05T12:57:51.277+0400] {taskinstance.py:1382} INFO - Executing <Task(_PythonDecoratedOperator): get_data> on 2023-11-05 08:57:49.078840+00:00
+[2023-11-05T12:57:51.279+0400] {standard_task_runner.py:57} INFO - Started process 52073 to run task
+[2023-11-05T12:57:51.282+0400] {standard_task_runner.py:84} INFO - Running: ['airflow', 'tasks', 'run', 'experiment', 'get_data', 'manual__2023-11-05T08:57:49.078840+00:00', '--job-id', '9', '--raw', '--subdir', 'DAGS_FOLDER/experiment.py', '--cfg-path', '/tmp/tmp5irtp4or']
+[2023-11-05T12:57:51.283+0400] {standard_task_runner.py:85} INFO - Job 9: Subtask get_data
+[2023-11-05T12:57:51.303+0400] {task_command.py:416} INFO - Running <TaskInstance: experiment.get_data manual__2023-11-05T08:57:49.078840+00:00 [running]> on host primary
+[2023-11-05T12:57:51.330+0400] {taskinstance.py:1662} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='admin' AIRFLOW_CTX_DAG_ID='experiment' AIRFLOW_CTX_TASK_ID='get_data' AIRFLOW_CTX_EXECUTION_DATE='2023-11-05T08:57:49.078840+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='manual__2023-11-05T08:57:49.078840+00:00'
+[2023-11-05T12:57:51.331+0400] {get_data.py:13} INFO - Start loading dataset
+[2023-11-05T12:57:52.531+0400] {get_data.py:16} INFO - Loaded dataset
+[2023-11-05T12:57:52.532+0400] {get_data.py:19} INFO - Extracted zip files
+[2023-11-05T12:57:52.532+0400] {python.py:194} INFO - Done. Returned value was: Loaded dataset succesfully
+[2023-11-05T12:57:52.543+0400] {taskinstance.py:1400} INFO - Marking task as SUCCESS. dag_id=experiment, task_id=get_data, execution_date=20231105T085749, start_date=20231105T085751, end_date=20231105T085752
+[2023-11-05T12:57:52.610+0400] {local_task_job_runner.py:228} INFO - Task exited with return code 0
+[2023-11-05T12:57:52.624+0400] {taskinstance.py:2778} INFO - 1 downstream tasks scheduled from follow-on schedule check

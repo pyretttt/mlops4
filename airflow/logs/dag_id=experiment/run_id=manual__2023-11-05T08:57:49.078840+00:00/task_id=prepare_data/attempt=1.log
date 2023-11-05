@@ -1,0 +1,23 @@
+[2023-11-05T12:57:53.941+0400] {taskinstance.py:1159} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: experiment.prepare_data manual__2023-11-05T08:57:49.078840+00:00 [queued]>
+[2023-11-05T12:57:53.944+0400] {taskinstance.py:1159} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: experiment.prepare_data manual__2023-11-05T08:57:49.078840+00:00 [queued]>
+[2023-11-05T12:57:53.944+0400] {taskinstance.py:1361} INFO - Starting attempt 1 of 2
+[2023-11-05T12:57:53.951+0400] {taskinstance.py:1382} INFO - Executing <Task(_PythonDecoratedOperator): prepare_data> on 2023-11-05 08:57:49.078840+00:00
+[2023-11-05T12:57:53.953+0400] {standard_task_runner.py:57} INFO - Started process 52091 to run task
+[2023-11-05T12:57:53.955+0400] {standard_task_runner.py:84} INFO - Running: ['airflow', 'tasks', 'run', 'experiment', 'prepare_data', 'manual__2023-11-05T08:57:49.078840+00:00', '--job-id', '10', '--raw', '--subdir', 'DAGS_FOLDER/experiment.py', '--cfg-path', '/tmp/tmpn47iqo4w']
+[2023-11-05T12:57:53.955+0400] {standard_task_runner.py:85} INFO - Job 10: Subtask prepare_data
+[2023-11-05T12:57:53.973+0400] {task_command.py:416} INFO - Running <TaskInstance: experiment.prepare_data manual__2023-11-05T08:57:49.078840+00:00 [running]> on host primary
+[2023-11-05T12:57:54.001+0400] {taskinstance.py:1662} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='admin' AIRFLOW_CTX_DAG_ID='experiment' AIRFLOW_CTX_TASK_ID='prepare_data' AIRFLOW_CTX_EXECUTION_DATE='2023-11-05T08:57:49.078840+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='manual__2023-11-05T08:57:49.078840+00:00'
+[2023-11-05T12:57:54.006+0400] {prepare_data.py:15} INFO - Data preparation started
+[2023-11-05T12:57:54.013+0400] {prepare_data.py:34} INFO - Data preparation succeed
+[2023-11-05T12:57:54.013+0400] {prepare_data.py:35} INFO - Data description
+ shape: (407, 25)
+columns: Index(['Apple', 'Asus', 'Blackberry', 'CAT', 'Google', 'Huawei', 'LG',
+       'Motorola', 'Nokia', 'OnePlus', 'Oppo', 'Realme', 'Samsung', 'Sony',
+       'Vivo', 'Xiaomi', 'Storage', 'RAM', 'Screen Size (inches)',
+       'Battery Capacity (mAh)', 'Price ($)', 'n_cameras', 'is_pro',
+       'is_ultra', 'is_max'],
+      dtype='object')
+[2023-11-05T12:57:54.015+0400] {python.py:194} INFO - Done. Returned value was: Data prepared succesfully
+[2023-11-05T12:57:54.023+0400] {taskinstance.py:1400} INFO - Marking task as SUCCESS. dag_id=experiment, task_id=prepare_data, execution_date=20231105T085749, start_date=20231105T085753, end_date=20231105T085754
+[2023-11-05T12:57:54.070+0400] {local_task_job_runner.py:228} INFO - Task exited with return code 0
+[2023-11-05T12:57:54.080+0400] {taskinstance.py:2778} INFO - 1 downstream tasks scheduled from follow-on schedule check
