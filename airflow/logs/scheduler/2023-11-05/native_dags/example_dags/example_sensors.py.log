@@ -824,3 +824,178 @@
 [2023-11-05T11:53:16.718+0400] {logging_mixin.py:151} INFO - [2023-11-05T11:53:16.717+0400] {dag.py:2941} INFO - Sync 1 DAGs
 [2023-11-05T11:53:16.726+0400] {logging_mixin.py:151} INFO - [2023-11-05T11:53:16.726+0400] {dag.py:3722} INFO - Setting next_dagrun for example_sensors to None, run_after=None
 [2023-11-05T11:53:16.738+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py took 0.060 seconds
+[2023-11-05T11:54:20.200+0400] {processor.py:157} INFO - Started process (PID=47834) to work on /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2023-11-05T11:54:20.202+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2023-11-05T11:54:20.203+0400] {logging_mixin.py:151} INFO - [2023-11-05T11:54:20.202+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2023-11-05T11:54:20.214+0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_sensors']) retrieved from /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2023-11-05T11:54:20.231+0400] {logging_mixin.py:151} INFO - [2023-11-05T11:54:20.231+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-05T11:54:20.237+0400] {logging_mixin.py:151} INFO - [2023-11-05T11:54:20.236+0400] {dag.py:3722} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2023-11-05T11:54:20.249+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py took 0.053 seconds
+[2023-11-05T11:55:15.831+0400] {processor.py:157} INFO - Started process (PID=47933) to work on /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2023-11-05T11:55:15.833+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2023-11-05T11:55:15.834+0400] {logging_mixin.py:151} INFO - [2023-11-05T11:55:15.834+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2023-11-05T11:55:15.845+0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_sensors']) retrieved from /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2023-11-05T11:55:15.861+0400] {logging_mixin.py:151} INFO - [2023-11-05T11:55:15.861+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-05T11:55:15.868+0400] {logging_mixin.py:151} INFO - [2023-11-05T11:55:15.868+0400] {dag.py:3722} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2023-11-05T11:55:15.880+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py took 0.053 seconds
+[2023-11-05T11:56:13.673+0400] {processor.py:157} INFO - Started process (PID=47990) to work on /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2023-11-05T11:56:13.674+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2023-11-05T11:56:13.675+0400] {logging_mixin.py:151} INFO - [2023-11-05T11:56:13.675+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2023-11-05T11:56:13.684+0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_sensors']) retrieved from /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2023-11-05T11:56:13.701+0400] {logging_mixin.py:151} INFO - [2023-11-05T11:56:13.701+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-05T11:56:13.710+0400] {logging_mixin.py:151} INFO - [2023-11-05T11:56:13.709+0400] {dag.py:3722} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2023-11-05T11:56:13.727+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py took 0.059 seconds
+[2023-11-05T11:57:07.390+0400] {processor.py:157} INFO - Started process (PID=48045) to work on /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2023-11-05T11:57:07.392+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2023-11-05T11:57:07.394+0400] {logging_mixin.py:151} INFO - [2023-11-05T11:57:07.393+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2023-11-05T11:57:07.404+0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_sensors']) retrieved from /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2023-11-05T11:57:07.422+0400] {logging_mixin.py:151} INFO - [2023-11-05T11:57:07.422+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-05T11:57:07.428+0400] {logging_mixin.py:151} INFO - [2023-11-05T11:57:07.428+0400] {dag.py:3722} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2023-11-05T11:57:07.440+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py took 0.053 seconds
+[2023-11-05T11:57:59.355+0400] {processor.py:157} INFO - Started process (PID=48099) to work on /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2023-11-05T11:57:59.357+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2023-11-05T11:57:59.358+0400] {logging_mixin.py:151} INFO - [2023-11-05T11:57:59.357+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2023-11-05T11:57:59.369+0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_sensors']) retrieved from /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2023-11-05T11:57:59.387+0400] {logging_mixin.py:151} INFO - [2023-11-05T11:57:59.387+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-05T11:57:59.393+0400] {logging_mixin.py:151} INFO - [2023-11-05T11:57:59.393+0400] {dag.py:3722} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2023-11-05T11:57:59.405+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py took 0.054 seconds
+[2023-11-05T11:58:55.162+0400] {processor.py:157} INFO - Started process (PID=48155) to work on /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2023-11-05T11:58:55.164+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2023-11-05T11:58:55.166+0400] {logging_mixin.py:151} INFO - [2023-11-05T11:58:55.165+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2023-11-05T11:58:55.177+0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_sensors']) retrieved from /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2023-11-05T11:58:55.194+0400] {logging_mixin.py:151} INFO - [2023-11-05T11:58:55.194+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-05T11:58:55.200+0400] {logging_mixin.py:151} INFO - [2023-11-05T11:58:55.200+0400] {dag.py:3722} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2023-11-05T11:58:55.211+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py took 0.054 seconds
+[2023-11-05T11:59:48.686+0400] {processor.py:157} INFO - Started process (PID=48209) to work on /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2023-11-05T11:59:48.688+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2023-11-05T11:59:48.690+0400] {logging_mixin.py:151} INFO - [2023-11-05T11:59:48.689+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2023-11-05T11:59:48.701+0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_sensors']) retrieved from /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2023-11-05T11:59:48.718+0400] {logging_mixin.py:151} INFO - [2023-11-05T11:59:48.718+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-05T11:59:48.724+0400] {logging_mixin.py:151} INFO - [2023-11-05T11:59:48.724+0400] {dag.py:3722} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2023-11-05T11:59:48.736+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py took 0.054 seconds
+[2023-11-05T12:00:42.304+0400] {processor.py:157} INFO - Started process (PID=48265) to work on /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2023-11-05T12:00:42.306+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2023-11-05T12:00:42.308+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:00:42.307+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2023-11-05T12:00:42.318+0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_sensors']) retrieved from /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2023-11-05T12:00:42.335+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:00:42.335+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-05T12:00:42.341+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:00:42.341+0400] {dag.py:3722} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2023-11-05T12:00:42.354+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py took 0.054 seconds
+[2023-11-05T12:01:36.532+0400] {processor.py:157} INFO - Started process (PID=48319) to work on /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2023-11-05T12:01:36.534+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2023-11-05T12:01:36.535+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:01:36.534+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2023-11-05T12:01:36.543+0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_sensors']) retrieved from /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2023-11-05T12:01:36.557+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:01:36.556+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-05T12:01:36.563+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:01:36.563+0400] {dag.py:3722} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2023-11-05T12:01:36.575+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py took 0.048 seconds
+[2023-11-05T12:02:33.862+0400] {processor.py:157} INFO - Started process (PID=48375) to work on /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2023-11-05T12:02:33.864+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2023-11-05T12:02:33.866+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:02:33.865+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2023-11-05T12:02:33.877+0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_sensors']) retrieved from /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2023-11-05T12:02:33.894+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:02:33.894+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-05T12:02:33.900+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:02:33.900+0400] {dag.py:3722} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2023-11-05T12:02:33.912+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py took 0.055 seconds
+[2023-11-05T12:03:29.864+0400] {processor.py:157} INFO - Started process (PID=48448) to work on /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2023-11-05T12:03:29.866+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2023-11-05T12:03:29.867+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:03:29.866+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2023-11-05T12:03:29.879+0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_sensors']) retrieved from /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2023-11-05T12:03:29.897+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:03:29.897+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-05T12:03:29.902+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:03:29.902+0400] {dag.py:3722} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2023-11-05T12:03:29.913+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py took 0.053 seconds
+[2023-11-05T12:04:25.596+0400] {processor.py:157} INFO - Started process (PID=48504) to work on /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2023-11-05T12:04:25.598+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2023-11-05T12:04:25.599+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:04:25.598+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2023-11-05T12:04:25.611+0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_sensors']) retrieved from /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2023-11-05T12:04:25.629+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:04:25.629+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-05T12:04:25.634+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:04:25.634+0400] {dag.py:3722} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2023-11-05T12:04:25.645+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py took 0.054 seconds
+[2023-11-05T12:05:23.833+0400] {processor.py:157} INFO - Started process (PID=48571) to work on /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2023-11-05T12:05:23.835+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2023-11-05T12:05:23.836+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:05:23.835+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2023-11-05T12:05:23.846+0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_sensors']) retrieved from /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2023-11-05T12:05:23.863+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:05:23.863+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-05T12:05:23.869+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:05:23.869+0400] {dag.py:3722} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2023-11-05T12:05:23.881+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py took 0.052 seconds
+[2023-11-05T12:06:16.867+0400] {processor.py:157} INFO - Started process (PID=48627) to work on /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2023-11-05T12:06:16.869+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2023-11-05T12:06:16.870+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:06:16.869+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2023-11-05T12:06:16.881+0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_sensors']) retrieved from /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2023-11-05T12:06:16.899+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:06:16.899+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-05T12:06:16.907+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:06:16.907+0400] {dag.py:3722} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2023-11-05T12:06:16.918+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py took 0.056 seconds
+[2023-11-05T12:07:13.655+0400] {processor.py:157} INFO - Started process (PID=48682) to work on /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2023-11-05T12:07:13.657+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2023-11-05T12:07:13.658+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:07:13.658+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2023-11-05T12:07:13.668+0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_sensors']) retrieved from /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2023-11-05T12:07:13.686+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:07:13.686+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-05T12:07:13.692+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:07:13.691+0400] {dag.py:3722} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2023-11-05T12:07:13.703+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py took 0.052 seconds
+[2023-11-05T12:08:09.330+0400] {processor.py:157} INFO - Started process (PID=48748) to work on /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2023-11-05T12:08:09.332+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2023-11-05T12:08:09.334+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:08:09.333+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2023-11-05T12:08:09.345+0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_sensors']) retrieved from /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2023-11-05T12:08:09.363+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:08:09.363+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-05T12:08:09.371+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:08:09.370+0400] {dag.py:3722} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2023-11-05T12:08:09.381+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py took 0.055 seconds
+[2023-11-05T12:09:02.364+0400] {processor.py:157} INFO - Started process (PID=48802) to work on /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2023-11-05T12:09:02.366+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2023-11-05T12:09:02.367+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:09:02.366+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2023-11-05T12:09:02.378+0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_sensors']) retrieved from /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2023-11-05T12:09:02.397+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:09:02.397+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-05T12:09:02.404+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:09:02.404+0400] {dag.py:3722} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2023-11-05T12:09:02.415+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py took 0.056 seconds
+[2023-11-05T12:09:58.384+0400] {processor.py:157} INFO - Started process (PID=48858) to work on /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2023-11-05T12:09:58.386+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2023-11-05T12:09:58.387+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:09:58.386+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2023-11-05T12:09:58.399+0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_sensors']) retrieved from /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2023-11-05T12:09:58.416+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:09:58.415+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-05T12:09:58.421+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:09:58.421+0400] {dag.py:3722} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2023-11-05T12:09:58.433+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py took 0.054 seconds
+[2023-11-05T12:10:55.715+0400] {processor.py:157} INFO - Started process (PID=48915) to work on /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2023-11-05T12:10:55.717+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2023-11-05T12:10:55.718+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:10:55.717+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2023-11-05T12:10:55.729+0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_sensors']) retrieved from /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2023-11-05T12:10:55.749+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:10:55.749+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-05T12:10:55.755+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:10:55.755+0400] {dag.py:3722} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2023-11-05T12:10:55.767+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py took 0.057 seconds
+[2023-11-05T12:11:53.597+0400] {processor.py:157} INFO - Started process (PID=48976) to work on /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2023-11-05T12:11:53.598+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2023-11-05T12:11:53.600+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:11:53.599+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2023-11-05T12:11:53.610+0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_sensors']) retrieved from /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2023-11-05T12:11:53.626+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:11:53.626+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-05T12:11:53.633+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:11:53.633+0400] {dag.py:3722} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2023-11-05T12:11:53.646+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py took 0.053 seconds
+[2023-11-05T12:12:49.483+0400] {processor.py:157} INFO - Started process (PID=49031) to work on /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2023-11-05T12:12:49.485+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2023-11-05T12:12:49.486+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:12:49.485+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2023-11-05T12:12:49.497+0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_sensors']) retrieved from /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2023-11-05T12:12:49.514+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:12:49.514+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-05T12:12:49.520+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:12:49.520+0400] {dag.py:3722} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2023-11-05T12:12:49.532+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py took 0.054 seconds
+[2023-11-05T12:13:45.440+0400] {processor.py:157} INFO - Started process (PID=49110) to work on /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2023-11-05T12:13:45.442+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2023-11-05T12:13:45.443+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:13:45.442+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2023-11-05T12:13:45.454+0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_sensors']) retrieved from /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2023-11-05T12:13:45.467+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:13:45.467+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-05T12:13:45.474+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:13:45.474+0400] {dag.py:3722} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2023-11-05T12:13:45.492+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py took 0.056 seconds
+[2023-11-05T12:14:46.971+0400] {processor.py:157} INFO - Started process (PID=49209) to work on /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2023-11-05T12:14:46.973+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2023-11-05T12:14:46.974+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:14:46.974+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2023-11-05T12:14:46.985+0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_sensors']) retrieved from /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2023-11-05T12:14:47.003+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:14:47.003+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-05T12:14:47.009+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:14:47.009+0400] {dag.py:3722} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2023-11-05T12:14:47.021+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py took 0.054 seconds
+[2023-11-05T12:15:43.025+0400] {processor.py:157} INFO - Started process (PID=49267) to work on /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2023-11-05T12:15:43.027+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2023-11-05T12:15:43.028+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:15:43.027+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2023-11-05T12:15:43.039+0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_sensors']) retrieved from /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2023-11-05T12:15:43.056+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:15:43.056+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-05T12:15:43.062+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:15:43.062+0400] {dag.py:3722} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2023-11-05T12:15:43.078+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py took 0.057 seconds
+[2023-11-05T12:16:37.323+0400] {processor.py:157} INFO - Started process (PID=49321) to work on /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2023-11-05T12:16:37.325+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2023-11-05T12:16:37.326+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:16:37.325+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2023-11-05T12:16:37.337+0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_sensors']) retrieved from /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2023-11-05T12:16:37.355+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:16:37.355+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-05T12:16:37.361+0400] {logging_mixin.py:151} INFO - [2023-11-05T12:16:37.361+0400] {dag.py:3722} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2023-11-05T12:16:37.373+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops4/env/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py took 0.055 seconds

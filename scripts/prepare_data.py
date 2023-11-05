@@ -1,9 +1,13 @@
 import re
+import logging
 
 import numpy as np
 import pandas as pd
 
+logger = logging.getLogger('prepare_data')
 data = pd.read_csv('/home/pyretttt/repos/mlops4/datasets/raw_data/Mobile phone price.csv', sep=',')
+
+logger.info('Data preparation started')
 
 data.rename({'Storage ': 'Storage', 'RAM ': 'RAM'}, axis=1, inplace=True)
 data['Storage'] = data['Storage'].apply(lambda x: re.sub('\s?GB', '', x, flags=re.I)).astype(int)
@@ -22,4 +26,6 @@ data = pd.concat((pd.get_dummies(data['Brand']).astype(np.int8), data), axis=1)
 data.drop(['Camera (MP)', 'Model', 'Brand'], axis=1, inplace=True)
 
 
+logger.info('Data preparation succeed')
+logger.info(f'Data description\n shape: {data.shape}\ncolumns: {data.columns}')
 data.to_csv('/home/pyretttt/repos/mlops4/datasets/prepared.csv', index=False)
